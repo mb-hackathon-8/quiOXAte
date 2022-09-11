@@ -9,4 +9,8 @@ rapidnj -i fa -t d  card_canonical_card_prev_and_ncbi_oxa_dedeup.aln > card_cano
 iqtree2 -k 01.shortnames.nj.tre ## will generate a PDA file with seq names etc.
 gotree stats edges -i 01.shortnames.nj.tre  | sort -nk 3  | tail -n 30 | cut -f 9 | sort | uniq >> 01.shortnames.nj.tre.pda
 ```
-PDA file needs some editing.
+PDA file needs some editing. Then
+```bash
+gotree stats edges -i 01.shortnames.nj.tre  | sort -nk 3  | tail -n 30 | cut -f 9 | sort | uniq >> 01.shortnames.nj.tre.pda
+mafft --ep 0.3 --auto 03.sans_longbranches.aln > 04.sans_realign.aln
+```
