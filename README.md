@@ -1,4 +1,4 @@
-# QuiOXAte overview
+# QuiOXAte
 
 ![](assets/quiOXAte.png)
 
