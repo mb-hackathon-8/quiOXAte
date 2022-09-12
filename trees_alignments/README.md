@@ -28,9 +28,10 @@ grep ">" 004.card_canonical_card_ncbi_oxa_dedeup_gaps+out_removed.aln | cut -c 2
 goalign rename -m 006.newnames.tsv --revert  -i 004.card_canonical_card_ncbi_oxa_dedeup_gaps+out_removed.aln > 006.newnames.aln
 ```
 
-## annotate internal nodes 
+## reroot and annotate internal nodes 
 ```bash
-treetime mugration --tree 006.newnames.iq.tre --states ../annotations/ncbi_card_annotation_comparion/families.tsv --attribute "NCBI Family" --outdir 003.tt
-mv 003.tt/annotated_tree.nexus 007.annotated_ncbifamily.nexus
+gotree reroot midpoint -i ../003/006.newnames.iq.tre > 007.midpoint.tre
+treetime mugration --tree 007.midpoint.tre --states ../annotations/ncbi_card_annotation_comparion/families.tsv --attribute "NCBI Family" --outdir 007.tt
+mv 007.tt/annotated_tree.nexus 007.annotated_ncbifamily.nexus
 ```
-
+<img src="007.midpoint.svg" height="300" align="right" alt="annotated tree">
