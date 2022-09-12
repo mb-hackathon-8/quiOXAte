@@ -1,0 +1,1017 @@
+blaOXA-22,blaOXA,WP_063861776.1,WP_063861776.1,AAD12233.1,AF064820.3,benzylpenicillin-hydrolyzing class D beta-lactamase OXA-22,Beta-lactamase (not ESBL or carbapenemase)
+,blaOXA/blaLRA13,WP_063839877.1,WP_063839877.1,ACH58991.1,EU408352.1,bifunctional class C beta-lactamase/class D beta-lactamase fusion protein LRA-13,Beta-lactamase (unknown spectrum)
+blaOXA-1036,blaOXA,WP_104442312.1,WP_104442312.1,AUX87883.1,CP026412.1,carbapenem-hydrolyzing class D beta-lactamase OXA-1036,Carbapenemase
+blaOXA-1089,blaOXA,WP_075071939.1,WP_075071939.1,GAP12525.1,DF967972.1,carbapenem-hydrolyzing class D beta-lactamase OXA-1089,Carbapenemase
+blaOXA-1090,blaOXA,WP_051601260.1,WP_051601260.1,KCZ55067.1,AWFF01000032.1,carbapenem-hydrolyzing class D beta-lactamase OXA-1090,Carbapenemase
+blaOXA-134,blaOXA,WP_005104969.1,WP_005104969.1,ADM47435.1,HQ122933.1,carbapenem-hydrolyzing class D beta-lactamase OXA-134,Carbapenemase
+blaOXA-143,blaOXA,WP_063861042.1,WP_063861042.1,ACX70402.1,GQ861437.1,carbapenem-hydrolyzing class D beta-lactamase OXA-143,Carbapenemase
+blaOXA-198,blaOXA,WP_094865115.1,WP_094865115.1,,HQ634775.2,carbapenem-hydrolyzing class D beta-lactamase OXA-198,Carbapenemase
+blaOXA-211,blaOXA,WP_063861666.1,WP_063861666.1,AEV91550.1,JN861779.1,carbapenem-hydrolyzing class D beta-lactamase OXA-211,Carbapenemase
+blaOXA-213,blaOXA,WP_005047495.1,WP_005047495.1,AEV91552.1,JN861781.1,carbapenem-hydrolyzing class D beta-lactamase OXA-213,Carbapenemase
+blaOXA-214,blaOXA,WP_008942158.1,WP_008942158.1,AEV91553.1,JN861782.1,carbapenem-hydrolyzing class D beta-lactamase OXA-214,Carbapenemase
+blaOXA-229,blaOXA,WP_063861840.1,WP_063861840.1,AFM55000.1,JQ422052.1,carbapenem-hydrolyzing class D beta-lactamase OXA-229,Carbapenemase
+blaOXA-372,blaOXA,WP_063862739.1,WP_063862739.1,AIG22448.1,KJ746496.1,carbapenem-hydrolyzing class D beta-lactamase OXA-372,Carbapenemase
+blaOXA-427,blaOXA,WP_096807440.1,WP_096807440.1,ARO85965.1,KX827604.1,carbapenem-hydrolyzing class D beta-lactamase OXA-427,Carbapenemase
+blaOXA-542,blaOXA,WP_109545048.1,WP_109545048.1,AQT01639.1,KY646155.1,carbapenem-hydrolyzing class D beta-lactamase OXA-542,Carbapenemase
+blaOXA-55,blaOXA,WP_063864256.1,WP_063864256.1,AAR03105.1,AY343493.1,carbapenem-hydrolyzing class D beta-lactamase OXA-55,Carbapenemase
+blaOXA-60,blaOXA,WP_063864500.1,WP_063864500.1,AAQ08905.1,AF525303.2,carbapenem-hydrolyzing class D beta-lactamase OXA-60,Carbapenemase
+blaOXA-62,blaOXA,WP_063864527.1,WP_063864527.1,AAR32134.1,AY423074.1,carbapenem-hydrolyzing class D beta-lactamase OXA-62,Carbapenemase
+blaOXA-665,blaOXA,WP_016657654.1,WP_016657654.1,EPF70268.1,ATGI01000038.1,carbapenem-hydrolyzing class D beta-lactamase OXA-665,Carbapenemase
+blaOXA-900,blaOXA,WP_178317675.1,WP_178317675.1,QIB97956.1,MN936180.1,carbapenem-hydrolyzing class D beta-lactamase OXA-900,Beta-lactamase (unknown spectrum)
+blaOXA-1006,blaOXA,WP_231869629.1,WP_231869629.1,QWA20206.1,MZ265759.1,class D beta-lactamase OXA-1006,Beta-lactamase (unknown spectrum)
+blaOXA-1011,blaOXA,WP_211816370.1,WP_211816370.1,QUG49855.1,CP073309.1,class D beta-lactamase OXA-1011,Beta-lactamase (unknown spectrum)
+blaOXA-1043,blaOXA,WP_077021671.1,WP_077021671.1,QUN38553.1,CP073669.1,class D beta-lactamase OXA-1043,Beta-lactamase (unknown spectrum)
+blaOXA-1091,blaOXA,WP_012045014.1,WP_012045014.1,ABQ37031.1,CP000494.1,class D beta-lactamase OXA-1091,Beta-lactamase (unknown spectrum)
+blaOXA-114a,blaOXA,WP_054505840.1,WP_054505840.1,ABX38721.1,EU188842.1,class D beta-lactamase OXA-114a,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-114b,blaOXA,WP_006384924.1,WP_006384924.1,ADI23933.1,HM056040.1,class D beta-lactamase OXA-114b,Beta-lactamase (unknown spectrum)
+blaOXA-114c,blaOXA,WP_054448427.1,WP_054448427.1,ADI23934.1,HM056041.1,class D beta-lactamase OXA-114c,Beta-lactamase (unknown spectrum)
+blaOXA-114d,blaOXA,WP_063860980.1,WP_063860980.1,ADI25068.1,HM104633.1,class D beta-lactamase OXA-114d,Beta-lactamase (unknown spectrum)
+blaOXA-114e,blaOXA,WP_049058560.1,WP_049058560.1,ADI25069.1,HM104634.1,class D beta-lactamase OXA-114e,Beta-lactamase (unknown spectrum)
+blaOXA-114f,blaOXA,WP_024069684.1,WP_024069684.1,ADO14462.1,HM368375.1,class D beta-lactamase OXA-114f,Beta-lactamase (unknown spectrum)
+blaOXA-114g,blaOXA,WP_063861000.1,WP_063861000.1,ADO14463.1,HM368376.1,class D beta-lactamase OXA-114g,Beta-lactamase (unknown spectrum)
+blaOXA-114h,blaOXA,WP_053498400.1,WP_053498400.1,AFQ90095.1,JX206456.1,class D beta-lactamase OXA-114h,Beta-lactamase (unknown spectrum)
+blaOXA-114i,blaOXA,WP_026382828.1,WP_026382828.1,AFQ90089.1,JX206450.1,class D beta-lactamase OXA-114i,Beta-lactamase (unknown spectrum)
+blaOXA-114j,blaOXA,WP_054437016.1,WP_054437016.1,AFQ90090.1,JX206451.1,class D beta-lactamase OXA-114j,Beta-lactamase (unknown spectrum)
+blaOXA-114k,blaOXA,WP_136512073.1,WP_136512073.1,AFQ90091.1,JX206452.1,class D beta-lactamase OXA-114k,Beta-lactamase (unknown spectrum)
+blaOXA-114l,blaOXA,WP_054517040.1,WP_054517040.1,AFQ90092.1,JX206453.1,class D beta-lactamase OXA-114l,Beta-lactamase (unknown spectrum)
+blaOXA-114m,blaOXA,WP_054471662.1,WP_054471662.1,AFQ90093.1,JX206454.1,class D beta-lactamase OXA-114m,Beta-lactamase (unknown spectrum)
+blaOXA-114n,blaOXA,WP_136512074.1,WP_136512074.1,AFQ90094.1,JX206455.1,class D beta-lactamase OXA-114n,Beta-lactamase (unknown spectrum)
+blaOXA-114p,blaOXA,WP_076412384.1,WP_076412384.1,AGW27419.1,KF573363.1,class D beta-lactamase OXA-114p,Beta-lactamase (unknown spectrum)
+blaOXA-114q,blaOXA,WP_136512075.1,WP_136512075.1,AGW27420.1,KF573364.1,class D beta-lactamase OXA-114q,Beta-lactamase (unknown spectrum)
+blaOXA-114r,blaOXA,WP_136512076.1,WP_136512076.1,AGW27421.1,KF573365.1,class D beta-lactamase OXA-114r,Beta-lactamase (unknown spectrum)
+blaOXA-114s,blaOXA,WP_136512077.1,WP_136512077.1,AGW27422.1,KF573366.1,class D beta-lactamase OXA-114s,Beta-lactamase (unknown spectrum)
+blaOXA-114t,blaOXA,WP_136512078.1,WP_136512078.1,AGW27423.1,KF573367.1,class D beta-lactamase OXA-114t,Beta-lactamase (unknown spectrum)
+blaOXA-114u,blaOXA,WP_136512079.1,WP_136512079.1,AGW27424.1,KF573368.1,class D beta-lactamase OXA-114u,Beta-lactamase (unknown spectrum)
+blaOXA-114v,blaOXA,WP_136512080.1,WP_136512080.1,AGW27425.1,KF573369.1,class D beta-lactamase OXA-114v,Beta-lactamase (unknown spectrum)
+blaOXA-114w,blaOXA,WP_136512081.1,WP_136512081.1,ALX18469.1,KU323970.1,class D beta-lactamase OXA-114w,Beta-lactamase (unknown spectrum)
+blaOXA-114x,blaOXA,WP_136512082.1,WP_136512082.1,ALX18470.1,KU323971.1,class D beta-lactamase OXA-114x,Beta-lactamase (unknown spectrum)
+blaOXA-209,blaOXA,WP_014053563.1,WP_014053563.1,AEM66528.1,JF268688.1,class D beta-lactamase OXA-209,Beta-lactamase (unknown spectrum)
+blaOXA-243,blaOXA,WP_006391197.1,WP_006391197.1,AFQ90085.1,JX206446.1,class D beta-lactamase OXA-243,Beta-lactamase (unknown spectrum)
+blaOXA-258,blaOXA,WP_063569909.1,WP_063569909.1,CCE73593.2,HE614014.2,class D beta-lactamase OXA-258,Beta-lactamase (unknown spectrum)
+blaOXA-266,blaOXA,WP_004878009.1,WP_004878009.1,ENV38192.1,APPO01000008.1,class D beta-lactamase OXA-266,Beta-lactamase (unknown spectrum)
+blaOXA-279,blaOXA,WP_004683508.1,WP_004683508.1,ENU35234.1,APOM01000058.1,class D beta-lactamase OXA-279,Beta-lactamase (unknown spectrum)
+blaOXA-289,blaOXA,WP_081400730.1,WP_081400730.1,,APRM01000005.1,class D beta-lactamase OXA-289,Beta-lactamase (unknown spectrum)
+blaOXA-290,blaOXA,WP_081398973.1,WP_081398973.1,,APOK01000044.1,class D beta-lactamase OXA-290,Beta-lactamase (unknown spectrum)
+blaOXA-294,blaOXA,WP_004776204.1,WP_004776204.1,ENU93232.1,APPC01000015.1,class D beta-lactamase OXA-294,Beta-lactamase (unknown spectrum)
+blaOXA-296,blaOXA,WP_004650739.1,WP_004650739.1,ENU21024.1,APOH01000009.1,class D beta-lactamase OXA-296,Beta-lactamase (unknown spectrum)
+blaOXA-299,blaOXA,WP_005011312.1,WP_005011312.1,ENV82218.1,APQD01000016.1,class D beta-lactamase OXA-299,Beta-lactamase (unknown spectrum)
+blaOXA-308,blaOXA,WP_004867933.1,WP_004867933.1,ENV32314.1,APPN01000080.1,class D beta-lactamase OXA-308,Beta-lactamase (unknown spectrum)
+blaOXA-347,blaOXA,WP_004295324.1,WP_004295324.1,AET35493.1,JN086160.1,class D beta-lactamase OXA-347,Beta-lactamase (unknown spectrum)
+blaOXA-457,blaOXA,WP_063864087.1,WP_063864087.1,ALC76098.1,KP903886.1,class D beta-lactamase OXA-457,Beta-lactamase (unknown spectrum)
+blaOXA-458,blaOXA,WP_063864088.1,WP_063864088.1,ALC76100.1,KP903888.1,class D beta-lactamase OXA-458,Beta-lactamase (unknown spectrum)
+blaOXA-459,blaOXA,WP_063864089.1,WP_063864089.1,ALC76101.1,KP903889.1,class D beta-lactamase OXA-459,Beta-lactamase (unknown spectrum)
+blaOXA-491,blaOXA,WP_020848173.1,WP_020848173.1,KLE07522.1,JAIV01000087.1,class D beta-lactamase OXA-491,Beta-lactamase (unknown spectrum)
+blaOXA-493,blaOXA,WP_012662081.1,WP_012662081.1,AJC94664.1,CP007774.1,class D beta-lactamase OXA-493,Beta-lactamase (unknown spectrum)
+blaOXA-504,blaOXA,WP_063864115.1,WP_063864115.1,ALG65432.1,KT355710.1,class D beta-lactamase OXA-504,Beta-lactamase (unknown spectrum)
+blaOXA-527,blaOXA,WP_068981642.1,WP_068981642.1,ANW47163.1,KX599404.1,class D beta-lactamase OXA-527,Beta-lactamase (unknown spectrum)
+blaOXA-548,blaOXA,WP_087587939.1,WP_087587939.1,AQX43448.1,KY682750.1,class D beta-lactamase OXA-548,Beta-lactamase (unknown spectrum)
+blaOXA-568,blaOXA,WP_099337823.1,WP_099337823.1,ATO19096.1,CP024011.1,class D beta-lactamase OXA-568,Beta-lactamase (unknown spectrum)
+blaOXA-576,blaOXA,WP_087696200.1,WP_087696200.1,AWD39715.1,MH085550.1,class D beta-lactamase OXA-576,Beta-lactamase (unknown spectrum)
+blaOXA-61,blaOXA,WP_002872036.1,WP_002872036.1,AAT01092.1,AY587956.1,class D beta-lactamase OXA-61,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-666,blaOXA,WP_092689909.1,WP_092689909.1,SDY39836.1,FNPK01000009.1,class D beta-lactamase OXA-666,Carbapenemase
+blaOXA-732,blaOXA,WP_072678505.1,WP_072678505.1,AFY12006.1,JX846494.1,class D beta-lactamase OXA-732,Beta-lactamase (unknown spectrum)
+blaOXA-780,blaOXA,WP_049637206.1,WP_049637206.1,KMY26613.1,LFXO01000139.1,class D beta-lactamase OXA-780,Beta-lactamase (unknown spectrum)
+blaOXA-837,blaOXA,WP_148281568.1,WP_148281568.1,QEE23059.1,MN313890.1,class D beta-lactamase OXA-837,Beta-lactamase (unknown spectrum)
+blaOXA-919,blaOXA,WP_007879679.1,WP_007879679.1,NNV19885.1,PKQI01000001.1,class D beta-lactamase OXA-919,Beta-lactamase (unknown spectrum)
+blaOXA-925,blaOXA,WP_100507493.1,WP_100507493.1,CCP19563.2,HF562855.2,class D beta-lactamase OXA-925,Beta-lactamase (unknown spectrum)
+blaOXA-926,blaOXA,WP_114268491.1,WP_114268491.1,QLL99519.1,MT767688.1,class D beta-lactamase OXA-926,Beta-lactamase (unknown spectrum)
+blaOXA-956,blaOXA,WP_021139936.1,WP_021139936.1,MBS2780954.1,JAGUQQ010000007.1,class D beta-lactamase OXA-956,Beta-lactamase (unknown spectrum)
+blaOXA-957,blaOXA,WP_219860714.1,WP_219860714.1,QWJ89343.1,MZ126685.1,class D beta-lactamase OXA-957,Beta-lactamase (unknown spectrum)
+blaOXA-981,blaOXA,WP_231869606.1,WP_231869606.1,QWA20180.1,MZ265733.1,class D beta-lactamase OXA-981,Beta-lactamase (unknown spectrum)
+blaOXA-999,blaOXA,WP_231869624.1,WP_231869624.1,QWA20198.1,MZ265751.1,class D beta-lactamase OXA-999,Beta-lactamase (unknown spectrum)
+blaOXA-18,blaOXA,WP_063861237.1,WP_063861237.1,AAB58555.1,U85514.1,extended-spectrum class D beta-lactamase OXA-18,ESBL
+blaOXA-45,blaOXA,WP_032490761.1,WP_032490761.1,CAD58780.1,AJ519683.1,extended-spectrum class D beta-lactamase OXA-45,ESBL
+blaOXA-830,blaOXA,WP_152315468.1,WP_152315468.1,QCQ81089.1,MK926981.1,extended-spectrum class D beta-lactamase OXA-830,Beta-lactamase (unknown spectrum)
+blaOXA-1042,blaOXA,WP_231869587.1,WP_231869587.1,BDB58062.1,LC651191.1,OXA-1 family class D beta-lactamase OXA-1042,Beta-lactamase
+blaOXA-224,blaOXA,WP_063861812.1,WP_063861812.1,AEQ73521.1,JN596991.2,OXA-1 family class D beta-lactamase OXA-224,Beta-lactamase (unknown spectrum)
+blaOXA-320,blaOXA,WP_063862622.1,WP_063862622.1,AGR55864.1,KF151169.1,OXA-1 family class D beta-lactamase OXA-320,Beta-lactamase (unknown spectrum)
+blaOXA-534,blaOXA,WP_069280711.1,WP_069280711.1,AOE47040.1,KX714285.1,OXA-1 family class D beta-lactamase OXA-534,Beta-lactamase (unknown spectrum)
+blaOXA-675,blaOXA,WP_122630857.1,WP_122630857.1,AXQ11888.1,MH780096.1,OXA-1 family class D beta-lactamase OXA-675,Beta-lactamase (unknown spectrum)
+blaOXA-796,blaOXA,WP_110612827.1,WP_110612827.1,AEH57063.1,HQ386835.1,OXA-1 family class D beta-lactamase OXA-796,Beta-lactamase (unknown spectrum)
+blaOXA-921,blaOXA,WP_179284339.1,WP_179284339.1,BCG11499.1,LC543862.1,OXA-1 family class D beta-lactamase OXA-921,Beta-lactamase (unknown spectrum)
+blaOXA-31,blaOXA,WP_032490053.1,WP_032490053.1,AAK52604.1,AF294653.1,OXA-1 family extended-spectrum class D beta-lactamase OXA-31,ESBL
+blaOXA-47,blaOXA,WP_063864092.1,WP_063864092.1,AAP69225.1,AY237830.1,OXA-1 family oxacillin-hydrolyzing class D beta-lactamase OXA-47,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-233,blaOXA,WP_063862149.1,WP_063862149.1,AID67109.1,KJ657570.1,OXA-10 family carbapenem-hydrolyzing class D beta-lactamase OXA-233,Carbapenemase
+blaOXA-101,blaOXA,WP_063860937.1,WP_063860937.1,CAL85435.1,AM412777.1,OXA-10 family class D beta-lactamase OXA-101,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1015,blaOXA,WP_219860727.1,WP_219860727.1,QWY90352.1,MZ449318.1,OXA-10 family class D beta-lactamase OXA-1015,Beta-lactamase (unknown spectrum)
+blaOXA-1046,blaOXA,WP_240067727.1,WP_240067727.1,UHO07581.1,OL901270.1,OXA-10 family class D beta-lactamase OXA-1046,Beta-lactamase (unknown spectrum)
+blaOXA-1053,blaOXA,WP_240067732.1,WP_240067732.1,BDD79959.1,LC664104.1,OXA-10 family class D beta-lactamase OXA-1053,Beta-lactamase (unknown spectrum)
+blaOXA-1086,blaOXA,WP_242934105.1,WP_242934105.1,ULU82664.1,OM643280.1,OXA-10 family class D beta-lactamase OXA-1086,Beta-lactamase (unknown spectrum)
+blaOXA-1087,blaOXA,WP_256875608.1,WP_256875608.1,UTS94245.1,ON651492.1,OXA-10 family class D beta-lactamase OXA-1087,Beta-lactamase (unknown spectrum)
+blaOXA-1120,blaOXA,WP_256875610.1,WP_256875610.1,USC31971.1,ON721379.1,OXA-10 family class D beta-lactamase OXA-1120,Beta-lactamase (unknown spectrum)
+blaOXA-183,blaOXA,WP_063861272.1,WP_063861272.1,ADV41666.1,HQ111474.1,OXA-10 family class D beta-lactamase OXA-183,Beta-lactamase (unknown spectrum)
+blaOXA-240,blaOXA,WP_063862274.1,WP_063862274.1,AFN20670.1,JX089628.1,OXA-10 family class D beta-lactamase OXA-240,Beta-lactamase (unknown spectrum)
+blaOXA-246,blaOXA,WP_063862394.1,WP_063862394.1,AHC31001.1,KF711993.1,OXA-10 family class D beta-lactamase OXA-246,Beta-lactamase (unknown spectrum)
+blaOXA-251,blaOXA,WP_063862430.1,WP_063862430.1,AER57903.1,JN118546.1,OXA-10 family class D beta-lactamase OXA-251,Beta-lactamase (unknown spectrum)
+blaOXA-256,blaOXA,WP_014454104.1,WP_014454104.1,CCE94500.1,HE616889.1,OXA-10 family class D beta-lactamase OXA-256,Beta-lactamase (unknown spectrum)
+blaOXA-368,blaOXA,WP_099156044.1,WP_099156044.1,AMB19637.1,KT736121.1,OXA-10 family class D beta-lactamase OXA-368,Beta-lactamase (unknown spectrum)
+blaOXA-454,blaOXA,WP_063864086.1,WP_063864086.1,BAR45714.1,LC037981.1,OXA-10 family class D beta-lactamase OXA-454,Beta-lactamase (unknown spectrum)
+blaOXA-520,blaOXA,WP_065159014.1,WP_065159014.1,ANM44758.1,KX388630.1,OXA-10 family class D beta-lactamase OXA-520,Beta-lactamase (unknown spectrum)
+blaOXA-655,blaOXA,WP_122630842.1,WP_122630842.1,AWS00754.1,MH384610.1,OXA-10 family class D beta-lactamase OXA-655,Carbapenemase
+blaOXA-656,blaOXA,WP_122630843.1,WP_122630843.1,AWS00755.1,MH384611.1,OXA-10 family class D beta-lactamase OXA-656,Beta-lactamase (unknown spectrum)
+blaOXA-663,blaOXA,WP_032410229.1,WP_032410229.1,OWG16436.1,JCMW02000002.1,OXA-10 family class D beta-lactamase OXA-663,Beta-lactamase (unknown spectrum)
+blaOXA-677,blaOXA,WP_122630859.1,WP_122630859.1,AXQ11890.1,MH780098.1,OXA-10 family class D beta-lactamase OXA-677,Beta-lactamase (unknown spectrum)
+blaOXA-74,blaOXA,WP_063864532.1,WP_063864532.1,CAH69530.1,AJ854182.1,OXA-10 family class D beta-lactamase OXA-74,Beta-lactamase (unknown spectrum)
+blaOXA-794,blaOXA,WP_136512086.1,WP_136512086.1,QBC36178.1,MK482719.1,OXA-10 family class D beta-lactamase OXA-794,Beta-lactamase (unknown spectrum)
+blaOXA-795,blaOXA,WP_136512087.1,WP_136512087.1,QBC36179.1,MK482720.1,OXA-10 family class D beta-lactamase OXA-795,Beta-lactamase (unknown spectrum)
+blaOXA-823,blaOXA,WP_136512103.1,WP_136512103.1,QBZ67150.1,MK750000.1,OXA-10 family class D beta-lactamase OXA-823,Beta-lactamase (unknown spectrum)
+blaOXA-824,blaOXA,WP_136512104.1,WP_136512104.1,QBZ67151.1,MK750001.1,OXA-10 family class D beta-lactamase OXA-824,Beta-lactamase (unknown spectrum)
+blaOXA-827,blaOXA,WP_140423320.1,WP_140423320.1,QCF61856.1,MK840577.1,OXA-10 family class D beta-lactamase OXA-827,Beta-lactamase (unknown spectrum)
+blaOXA-836,blaOXA,WP_148044423.1,WP_148044423.1,QDO71691.1,MN186038.1,OXA-10 family class D beta-lactamase OXA-836,Beta-lactamase (unknown spectrum)
+blaOXA-928,blaOXA,WP_188331877.1,WP_188331877.1,QNH80866.1,MT891151.1,OXA-10 family class D beta-lactamase OXA-928,Beta-lactamase (unknown spectrum)
+blaOXA-932,blaOXA,WP_121331722.1,WP_121331722.1,QOC63222.1,MW021506.1,OXA-10 family class D beta-lactamase OXA-932,Beta-lactamase (unknown spectrum)
+blaOXA-11,blaOXA,WP_063860939.1,WP_063860939.1,CAA80304.1,Z22590.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-11,ESBL
+blaOXA-14,blaOXA,WP_064056056.1,WP_064056056.1,AHX74209.1,KJ420612.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-14,ESBL
+blaOXA-142,blaOXA,WP_063861041.1,WP_063861041.1,ABY79006.1,EU358785.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-142,ESBL
+blaOXA-145,blaOXA,WP_063861043.1,WP_063861043.1,ACN85419.1,FJ790516.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-145,ESBL
+blaOXA-147,blaOXA,WP_063861045.1,WP_063861045.1,ACO72579.1,FJ848783.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-147,ESBL
+blaOXA-17,blaOXA,WP_032491804.1,WP_032491804.1,ABI63579.1,DQ902344.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-17,ESBL
+blaOXA-19,blaOXA,WP_063861309.1,WP_063861309.1,AAD02245.1,AF043381.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-19,ESBL
+blaOXA-28,blaOXA,WP_032489753.1,WP_032489753.1,AAF72942.1,AF231133.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-28,ESBL
+blaOXA-35,blaOXA,WP_063862720.1,WP_063862720.1,AAK49460.1,AF315786.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-35,ESBL
+blaOXA-676,blaOXA,WP_122630858.1,WP_122630858.1,AXQ11889.1,MH780097.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-676,Beta-lactamase (unknown spectrum)
+blaOXA-736,blaOXA,WP_122630855.1,WP_122630855.1,AXQ11886.1,MH780094.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-736,Beta-lactamase (unknown spectrum)
+blaOXA-935,blaOXA,WP_141989064.1,WP_141989064.1,UBI73554.1,CP083367.1,OXA-10 family extended-spectrum class D beta-lactamase OXA-935,Beta-lactamase (unknown spectrum)
+blaOXA-13,blaOXA,WP_063861035.1,WP_063861035.1,AAC46344.1,U59183.1,OXA-10 family oxacillin-hydrolyzing class D beta-lactamase OXA-13,ESBL
+blaOXA-56,blaOXA,WP_063864264.1,WP_063864264.1,AAR32651.1,AY445080.1,OXA-10 family oxacillin-hydrolyzing class D beta-lactamase OXA-56,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-7,blaOXA,WP_063864530.1,WP_063864530.1,CAA53242.1,X75562.1,OXA-10 family oxacillin-hydrolyzing class D beta-lactamase OXA-7,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-790,blaOXA,WP_213994595.1,WP_213994595.1,QBC36167.1,MK388911.1,OXA-114 family class D beta-lactamase OXA-790,Beta-lactamase (unknown spectrum)
+blaOXA-791,blaOXA,WP_213994596.1,WP_213994596.1,QBC36168.1,MK388912.1,OXA-114 family class D beta-lactamase OXA-791,Beta-lactamase (unknown spectrum)
+blaOXA-839,blaOXA,WP_150823471.1,WP_150823471.1,QEJ74005.1,MN339508.1,OXA-114 family class D beta-lactamase OXA-839,Beta-lactamase (unknown spectrum)
+blaOXA-724,blaOXA,WP_077096319.1,WP_077096319.1,CAB76928.1,AJ276031.1,OXA-12 family class D beta-lactamase AmpH/OXA-724,Beta-lactamase (unknown spectrum)
+blaOXA-726,blaOXA,WP_101150415.1,WP_101150415.1,PKD23169.1,LSZC01000019.1,OXA-12 family class D beta-lactamase OXA-726,Beta-lactamase (unknown spectrum)
+blaOXA-912,blaOXA,WP_040068451.1,WP_040068451.1,QIM14705.1,MT135194.1,OXA-12 family class D beta-lactamase OXA-912,Beta-lactamase (unknown spectrum)
+blaOXA-951,blaOXA,WP_213994597.1,WP_213994597.1,BCT36861.1,LC610789.1,OXA-12 family class D beta-lactamase OXA-951,Beta-lactamase (unknown spectrum)
+blaOXA-958,blaOXA,WP_058052637.1,WP_058052637.1,QVO43823.1,MZ092816.1,OXA-12 family class D beta-lactamase OXA-958,Beta-lactamase (unknown spectrum)
+blaOXA-1005,blaOXA,WP_163170629.1,WP_163170629.1,QWA20205.1,MZ265758.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-1005,Carbapenemase
+blaOXA-235,blaOXA,WP_000854009.1,WP_000854009.1,AFH36330.1,JQ820240.2,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-235,Carbapenemase
+blaOXA-236,blaOXA,WP_063862170.1,WP_063862170.1,AFH36332.1,JQ820242.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-236,Carbapenemase
+blaOXA-237,blaOXA,WP_000854010.1,WP_000854010.1,AFH36331.1,JQ820241.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-237,Carbapenemase
+blaOXA-276,blaOXA,WP_004814035.1,WP_004814035.1,ENV13583.1,APPI01000013.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-276,Carbapenemase
+blaOXA-277,blaOXA,WP_004897444.1,WP_004897444.1,ENV45890.1,APPQ01000011.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-277,Carbapenemase
+blaOXA-278,blaOXA,WP_005220450.1,WP_005220450.1,AGI65307.1,KC771279.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-278,Carbapenemase
+blaOXA-283,blaOXA,WP_004647119.1,WP_004647119.1,ENU15301.1,APOG01000008.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-283,Carbapenemase
+blaOXA-284,blaOXA,WP_005245537.1,WP_005245537.1,ENX16434.1,APRU01000004.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-284,Carbapenemase
+blaOXA-285,blaOXA,WP_005268230.1,WP_005268230.1,ENX26326.1,APRY01000059.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-285,Carbapenemase
+blaOXA-335,blaOXA,WP_063862702.1,WP_063862702.1,AGW16417.1,KF203109.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-335,Carbapenemase
+blaOXA-360,blaOXA,WP_048880934.1,WP_048880934.1,AGZ83156.1,KF421163.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-360,Carbapenemase
+blaOXA-361,blaOXA,WP_063862731.1,WP_063862731.1,AHA11124.1,KF460531.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-361,Carbapenemase
+blaOXA-362,blaOXA,WP_063862732.1,WP_063862732.1,AHA11125.1,KF460532.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-362,Carbapenemase
+blaOXA-363,blaOXA,WP_063862733.1,WP_063862733.1,AHA11126.1,KF460533.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-363,Carbapenemase
+blaOXA-496,blaOXA,WP_064483990.1,WP_064483990.1,ALM26450.1,KT200608.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-496,Carbapenemase
+blaOXA-537,blaOXA,WP_070064536.1,WP_070064536.1,AOS48097.1,KX360747.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-537,Carbapenemase
+blaOXA-646,blaOXA,WP_039902635.1,WP_039902635.1,AWB15829.1,MH188855.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-646,Carbapenemase
+blaOXA-647,blaOXA,WP_140423315.1,WP_140423315.1,AWB15830.1,MH188856.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-647,Carbapenemase
+blaOXA-648,blaOXA,WP_140423316.1,WP_140423316.1,AWB15831.1,MH188857.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-648,Carbapenemase
+blaOXA-915,blaOXA,WP_168370988.1,WP_168370988.1,BCD52723.1,LC537318.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-915,Carbapenemase
+blaOXA-991,blaOXA,WP_231869616.1,WP_231869616.1,QWA20190.1,MZ265743.1,OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-991,Carbapenemase
+blaOXA-1139,blaOXA,WP_256875621.1,WP_256875621.1,UTS94248.1,ON651495.1,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-1139,Carbapenemase
+blaOXA-182,blaOXA,WP_063861266.1,WP_063861266.1,ADK92148.1,HM640278.2,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-182,Carbapenemase
+blaOXA-231,blaOXA,WP_063862128.1,WP_063862128.1,AFG29918.1,JQ326200.2,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-231,Carbapenemase
+blaOXA-253,blaOXA,WP_032495764.1,WP_032495764.1,AGK07368.1,KC479324.2,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-253,Carbapenemase
+blaOXA-255,blaOXA,WP_063862440.1,WP_063862440.1,AGK07369.1,KC479325.2,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-255,Carbapenemase
+blaOXA-499,blaOXA,WP_063864112.1,WP_063864112.1,ALM96709.1,KT964029.1,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-499,Carbapenemase
+blaOXA-649,blaOXA,WP_109545071.1,WP_109545071.1,AWA42529.1,MH211242.1,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-649,Carbapenemase
+blaOXA-825,blaOXA,WP_140423318.1,WP_140423318.1,QCE31561.1,MK807021.1,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-825,Carbapenemase
+blaOXA-945,blaOXA,WP_204376235.1,WP_204376235.1,QQY97506.1,MW527086.1,OXA-143 family carbapenem-hydrolyzing class D beta-lactamase OXA-945,Carbapenemase
+blaOXA-184,blaOXA,WP_002872405.1,WP_002872405.1,AFO09968.1,JQ396378.1,OXA-184 family class D beta-lactamase OXA-184,Beta-lactamase (unknown spectrum)
+blaOXA-185,blaOXA,WP_063861300.1,WP_063861300.1,AFO09969.1,JQ396379.1,OXA-184 family class D beta-lactamase OXA-185,Beta-lactamase (unknown spectrum)
+blaOXA-446,blaOXA,WP_063864084.1,WP_063864084.1,AKI29907.1,KR061495.1,OXA-184 family class D beta-lactamase OXA-446,Beta-lactamase (unknown spectrum)
+blaOXA-447,blaOXA,WP_002934081.1,WP_002934081.1,AKI29908.1,KR061496.1,OXA-184 family class D beta-lactamase OXA-447,Beta-lactamase (unknown spectrum)
+blaOXA-448,blaOXA,WP_063864085.1,WP_063864085.1,AKI29909.1,KR061497.1,OXA-184 family class D beta-lactamase OXA-448,Beta-lactamase (unknown spectrum)
+blaOXA-449,blaOXA,WP_002893358.1,WP_002893358.1,AKI29910.1,KR061498.1,OXA-184 family class D beta-lactamase OXA-449,Beta-lactamase (unknown spectrum)
+blaOXA-465,blaOXA,WP_052793969.1,WP_052793969.1,AKI29912.1,KR061500.1,OXA-184 family class D beta-lactamase OXA-465,Beta-lactamase (unknown spectrum)
+blaOXA-466,blaOXA,WP_063864091.1,WP_063864091.1,AKI29913.1,KR061501.1,OXA-184 family class D beta-lactamase OXA-466,Beta-lactamase (unknown spectrum)
+blaOXA-613,blaOXA,WP_109545111.1,WP_109545111.1,AWD39723.1,MH085568.1,OXA-184 family class D beta-lactamase OXA-613,Beta-lactamase (unknown spectrum)
+blaOXA-614,blaOXA,WP_070233680.1,WP_070233680.1,AWD39722.1,MH085567.1,OXA-184 family class D beta-lactamase OXA-614,Beta-lactamase (unknown spectrum)
+blaOXA-615,blaOXA,WP_109545115.1,WP_109545115.1,AWD39728.1,MH085574.1,OXA-184 family class D beta-lactamase OXA-615,Beta-lactamase (unknown spectrum)
+blaOXA-616,blaOXA,WP_109545110.1,WP_109545110.1,AWD39721.1,MH085566.1,OXA-184 family class D beta-lactamase OXA-616,Beta-lactamase (unknown spectrum)
+blaOXA-617,blaOXA,WP_109545114.1,WP_109545114.1,AWD39726.1,MH085571.1,OXA-184 family class D beta-lactamase OXA-617,Beta-lactamase (unknown spectrum)
+blaOXA-618,blaOXA,WP_109545113.1,WP_109545113.1,AWD39725.1,MH085570.1,OXA-184 family class D beta-lactamase OXA-618,Beta-lactamase (unknown spectrum)
+blaOXA-619,blaOXA,WP_109545075.1,WP_109545075.1,AWD39663.1,MH085498.1,OXA-184 family class D beta-lactamase OXA-619,Beta-lactamase (unknown spectrum)
+blaOXA-620,blaOXA,WP_109545076.1,WP_109545076.1,AWD39664.1,MH085499.1,OXA-184 family class D beta-lactamase OXA-620,Beta-lactamase (unknown spectrum)
+blaOXA-621,blaOXA,WP_109545116.1,WP_109545116.1,AWD39729.1,MH085575.1,OXA-184 family class D beta-lactamase OXA-621,Beta-lactamase (unknown spectrum)
+blaOXA-622,blaOXA,WP_109545112.1,WP_109545112.1,AWD39724.1,MH085569.1,OXA-184 family class D beta-lactamase OXA-622,Beta-lactamase (unknown spectrum)
+blaOXA-623,blaOXA,WP_002936877.1,WP_002936877.1,AWD39665.1,MH085500.1,OXA-184 family class D beta-lactamase OXA-623,Beta-lactamase (unknown spectrum)
+blaOXA-624,blaOXA,WP_088303859.1,WP_088303859.1,AWD39727.1,MH085572.1,OXA-184 family class D beta-lactamase OXA-624,Beta-lactamase (unknown spectrum)
+blaOXA-625,blaOXA,WP_052794776.1,WP_052794776.1,AWD39678.1,MH085513.1,OXA-184 family class D beta-lactamase OXA-625,Beta-lactamase (unknown spectrum)
+blaOXA-626,blaOXA,WP_109545080.1,WP_109545080.1,AWD39669.1,MH085504.1,OXA-184 family class D beta-lactamase OXA-626,Beta-lactamase (unknown spectrum)
+blaOXA-627,blaOXA,WP_109545081.1,WP_109545081.1,AWD39670.1,MH085505.1,OXA-184 family class D beta-lactamase OXA-627,Beta-lactamase (unknown spectrum)
+blaOXA-628,blaOXA,WP_109545083.1,WP_109545083.1,AWD39672.1,MH085507.1,OXA-184 family class D beta-lactamase OXA-628,Beta-lactamase (unknown spectrum)
+blaOXA-629,blaOXA,WP_057036510.1,WP_057036510.1,AWD39673.1,MH085508.1,OXA-184 family class D beta-lactamase OXA-629,Beta-lactamase (unknown spectrum)
+blaOXA-630,blaOXA,WP_109545085.1,WP_109545085.1,AWD39675.1,MH085510.1,OXA-184 family class D beta-lactamase OXA-630,Beta-lactamase (unknown spectrum)
+blaOXA-631,blaOXA,WP_109545079.1,WP_109545079.1,AWD39668.1,MH085503.1,OXA-184 family class D beta-lactamase OXA-631,Beta-lactamase (unknown spectrum)
+blaOXA-632,blaOXA,WP_109545086.1,WP_109545086.1,AWD39679.1,MH085514.1,OXA-184 family class D beta-lactamase OXA-632,Beta-lactamase (unknown spectrum)
+blaOXA-633,blaOXA,WP_109545082.1,WP_109545082.1,AWD39671.1,MH085506.1,OXA-184 family class D beta-lactamase OXA-633,Beta-lactamase (unknown spectrum)
+blaOXA-634,blaOXA,WP_109545084.1,WP_109545084.1,AWD39674.1,MH085509.1,OXA-184 family class D beta-lactamase OXA-634,Beta-lactamase (unknown spectrum)
+blaOXA-635,blaOXA,WP_109545078.1,WP_109545078.1,AWD39667.1,MH085502.1,OXA-184 family class D beta-lactamase OXA-635,Beta-lactamase (unknown spectrum)
+blaOXA-636,blaOXA,WP_109545077.1,WP_109545077.1,AWD39666.1,MH085501.1,OXA-184 family class D beta-lactamase OXA-636,Beta-lactamase (unknown spectrum)
+blaOXA-637,blaOXA,WP_052858477.1,WP_052858477.1,AWD39662.1,MH085497.1,OXA-184 family class D beta-lactamase OXA-637,Beta-lactamase (unknown spectrum)
+blaOXA-638,blaOXA,WP_044779552.1,WP_044779552.1,AWD39720.1,MH085565.1,OXA-184 family class D beta-lactamase OXA-638,Beta-lactamase (unknown spectrum)
+blaOXA-639,blaOXA,WP_053872444.1,WP_053872444.1,AWD39677.1,MH085512.1,OXA-184 family class D beta-lactamase OXA-639,Beta-lactamase (unknown spectrum)
+blaOXA-640,blaOXA,WP_109545109.1,WP_109545109.1,AWD39719.1,MH085564.1,OXA-184 family class D beta-lactamase OXA-640,Beta-lactamase (unknown spectrum)
+blaOXA-658,blaOXA,WP_070210118.1,WP_070210118.1,AWD39740.1,MH085573.1,OXA-184 family class D beta-lactamase OXA-658,Beta-lactamase (unknown spectrum)
+blaOXA-783,blaOXA,WP_128268278.1,WP_128268278.1,AYX80687.1,MK181518.1,OXA-184 family class D beta-lactamase OXA-783,Beta-lactamase (unknown spectrum)
+blaOXA-785,blaOXA,WP_126205827.1,WP_126205827.1,AYX80689.1,MK181520.1,OXA-184 family class D beta-lactamase OXA-785,Beta-lactamase (unknown spectrum)
+blaOXA-1056,blaOXA,WP_240067734.1,WP_240067734.1,UKC75978.1,OM460738.1,OXA-198 family carbapenem-hydrolyzing class D beta-lactamase OXA-1056,Carbapenemase
+blaOXA-1057,blaOXA,WP_240067735.1,WP_240067735.1,UKC75979.1,OM460739.1,OXA-198 family carbapenem-hydrolyzing class D beta-lactamase OXA-1057,Carbapenemase
+blaOXA-1017,blaOXA,WP_219860730.1,WP_219860730.1,QXJ78545.1,MZ497412.1,OXA-2 family class D beta-lactamase OXA-1017,Beta-lactamase (unknown spectrum)
+blaOXA-1049,blaOXA,WP_240067729.1,WP_240067729.1,UHO07587.1,OL901276.1,OXA-2 family class D beta-lactamase OXA-1049,Beta-lactamase (unknown spectrum)
+blaOXA-1082,blaOXA,WP_242934102.1,WP_242934102.1,ULU82657.1,OM638108.1,OXA-2 family class D beta-lactamase OXA-1082,Beta-lactamase (unknown spectrum)
+blaOXA-1084,blaOXA,WP_242934103.1,WP_242934103.1,ULU82659.1,OM638110.1,OXA-2 family class D beta-lactamase OXA-1084,Beta-lactamase (unknown spectrum)
+blaOXA-1085,blaOXA,WP_242934104.1,WP_242934104.1,ULU82660.1,OM638111.1,OXA-2 family class D beta-lactamase OXA-1085,Beta-lactamase (unknown spectrum)
+blaOXA-1136,blaOXA,WP_256875618.1,WP_256875618.1,UTS94244.1,ON651491.1,OXA-2 family class D beta-lactamase OXA-1136,Beta-lactamase (unknown spectrum)
+blaOXA-210,blaOXA,WP_063861649.1,WP_063861649.1,AEE61368.1,JF795487.1,OXA-2 family class D beta-lactamase OXA-210,Beta-lactamase (unknown spectrum)
+blaOXA-415,blaOXA,WP_034033256.1,WP_034033256.1,AIG94927.1,KJ865754.1,OXA-2 family class D beta-lactamase OXA-415,Beta-lactamase (unknown spectrum)
+blaOXA-540,blaOXA,WP_071846203.1,WP_071846203.1,AHN60085.1,KJ138219.1,OXA-2 family class D beta-lactamase OXA-540,Beta-lactamase (unknown spectrum)
+blaOXA-541,blaOXA,WP_071846384.1,WP_071846384.1,CAQ77073.1,FM179467.1,OXA-2 family class D beta-lactamase OXA-541,Beta-lactamase (unknown spectrum)
+blaOXA-543,blaOXA,WP_058132644.1,WP_058132644.1,OPD39435.1,LLTZ01000057.1,OXA-2 family class D beta-lactamase OXA-543,Beta-lactamase (unknown spectrum)
+blaOXA-544,blaOXA,WP_071537493.1,WP_071537493.1,OPD39420.1,LLMY01000078.1,OXA-2 family class D beta-lactamase OXA-544,Beta-lactamase (unknown spectrum)
+blaOXA-737,blaOXA,WP_122630856.1,WP_122630856.1,AXQ11887.1,MH780095.1,OXA-2 family class D beta-lactamase OXA-737,Beta-lactamase (unknown spectrum)
+blaOXA-838,blaOXA,WP_150823470.1,WP_150823470.1,QEJ74001.1,MN339504.1,OXA-2 family class D beta-lactamase OXA-838,Beta-lactamase (unknown spectrum)
+blaOXA-141,blaOXA,WP_058177653.1,WP_058177653.1,ABQ15112.1,EF552405.1,OXA-2 family extended-spectrum class D beta-lactamase OXA-141,ESBL
+blaOXA-15,blaOXA,WP_063861048.1,WP_063861048.1,AAB05874.1,U63835.1,OXA-2 family extended-spectrum class D beta-lactamase OXA-15,ESBL
+blaOXA-161,blaOXA,WP_063861101.1,WP_063861101.1,ACT09125.1,GQ202693.1,OXA-2 family extended-spectrum class D beta-lactamase OXA-161,ESBL
+blaOXA-226,blaOXA,WP_063861826.1,WP_063861826.1,ACM67635.1,FJ617207.1,OXA-2 family extended-spectrum class D beta-lactamase OXA-226,ESBL
+blaOXA-32,blaOXA,WP_063862613.1,WP_063862613.1,AAK58418.1,AF315351.1,OXA-2 family extended-spectrum class D beta-lactamase OXA-32,ESBL
+blaOXA-53,blaOXA,WP_063864223.1,WP_063864223.1,AAP43641.1,AY289608.1,OXA-2 family extended-spectrum class D beta-lactamase OXA-53,ESBL
+blaOXA-539,blaOXA,WP_071593233.1,WP_071593233.1,APC23886.1,KY094077.1,OXA-2 family inhibitor-resistant extended-spectrum class D beta-lactamase OXA-539,ESBL
+blaOXA-681,blaOXA,WP_122630881.1,WP_122630881.1,AYF58374.1,MH986647.1,OXA-2 family inhibitor-resistant extended-spectrum class D beta-lactamase OXA-681,Beta-lactamase (unknown spectrum)
+blaOXA-21,blaOXA,WP_014386432.1,WP_014386432.1,CAA71699.2,Y10693.2,OXA-2 family oxacillin-hydrolyzing class D beta-lactamase OXA-21,ESBL
+blaOXA-3,blaOXA,WP_063862540.1,WP_063862540.1,AAC41449.1,L07945.1,OXA-2 family oxacillin-hydrolyzing class D beta-lactamase OXA-3,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1044,blaOXA,WP_240067726.1,WP_240067726.1,UGY75799.1,OL809969.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-1044,Carbapenemase
+blaOXA-212,blaOXA,WP_063861677.1,WP_063861677.1,AEV91551.1,JN861780.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-212,Carbapenemase
+blaOXA-280,blaOXA,WP_004977701.1,WP_004977701.1,ENV74419.1,APPZ01000001.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-280,Carbapenemase
+blaOXA-281,blaOXA,WP_004697403.1,WP_004697403.1,ENU38533.1,APON01000041.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-281,Carbapenemase
+blaOXA-309,blaOXA,WP_063862593.1,WP_063862593.1,CCW28916.1,HF947514.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-309,Carbapenemase
+blaOXA-333,blaOXA,WP_063862693.1,WP_063862693.1,AGW16415.1,KF203107.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-333,Carbapenemase
+blaOXA-334,blaOXA,WP_063862698.1,WP_063862698.1,AGW16416.1,KF203108.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-334,Carbapenemase
+blaOXA-373,blaOXA,WP_063862740.1,WP_063862740.1,CDM87362.1,HG931732.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-373,Carbapenemase
+blaOXA-498,blaOXA,WP_063454569.1,WP_063454569.1,,LVIB01000024.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-498,Carbapenemase
+blaOXA-643,blaOXA,WP_140423312.1,WP_140423312.1,AWB15826.1,MH188852.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-643,Carbapenemase
+blaOXA-644,blaOXA,WP_140423313.1,WP_140423313.1,AWB15827.1,MH188853.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-644,Carbapenemase
+blaOXA-645,blaOXA,WP_140423314.1,WP_140423314.1,AWB15828.1,MH188854.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-645,Carbapenemase
+blaOXA-650,blaOXA,WP_140423317.1,WP_140423317.1,AWI33277.1,MH294485.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-650,Carbapenemase
+blaOXA-651,blaOXA,WP_058870660.1,WP_058870660.1,KUG37347.1,LBMO01000061.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-651,Carbapenemase
+blaOXA-652,blaOXA,WP_058951457.1,WP_058951457.1,ALV71466.1,CP010350.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-652,Carbapenemase
+blaOXA-662,blaOXA,WP_114699274.1,WP_114699274.1,AXC08554.1,MH549402.1,OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-662,Carbapenemase
+blaOXA-1000,blaOXA,WP_231869625.1,WP_231869625.1,QWA20199.1,MZ265752.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1000,Carbapenemase
+blaOXA-1002,blaOXA,WP_231869626.1,WP_231869626.1,QWA20202.1,MZ265755.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1002,Carbapenemase
+blaOXA-1003,blaOXA,WP_231869627.1,WP_231869627.1,QWA20203.1,MZ265756.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1003,Carbapenemase
+blaOXA-1007,blaOXA,WP_231869630.1,WP_231869630.1,QWA20207.1,MZ265760.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1007,Carbapenemase
+blaOXA-1008,blaOXA,WP_231869631.1,WP_231869631.1,QWA20208.1,MZ265761.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1008,Carbapenemase
+blaOXA-1009,blaOXA,WP_231869632.1,WP_231869632.1,QWA20209.1,MZ265762.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1009,Carbapenemase
+blaOXA-1010,blaOXA,WP_231869633.1,WP_231869633.1,QWA20210.1,MZ265763.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1010,Carbapenemase
+blaOXA-1050,blaOXA,WP_240067730.1,WP_240067730.1,UHO07589.1,OL901278.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1050,Carbapenemase
+blaOXA-1137,blaOXA,WP_256875619.1,WP_256875619.1,UTS94246.1,ON651493.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1137,Carbapenemase
+blaOXA-1138,blaOXA,WP_256875620.1,WP_256875620.1,UTS94247.1,ON651494.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-1138,Carbapenemase
+blaOXA-267,blaOXA,WP_005041180.1,WP_005041180.1,ENV93423.1,APQH01000006.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-267,Carbapenemase
+blaOXA-268,blaOXA,WP_003651390.1,WP_003651390.1,ENU09033.1,APOE01000008.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-268,Carbapenemase
+blaOXA-269,blaOXA,WP_016138346.1,WP_016138346.1,EOQ63861.1,APQJ01000007.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-269,Carbapenemase
+blaOXA-270,blaOXA,WP_016141238.1,WP_016141238.1,EOQ69512.1,APQM01000006.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-270,Carbapenemase
+blaOXA-271,blaOXA,WP_016145058.1,WP_016145058.1,EOQ72432.1,APQO01000006.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-271,Carbapenemase
+blaOXA-272,blaOXA,WP_005076320.1,WP_005076320.1,ENW16915.1,APQP01000003.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-272,Carbapenemase
+blaOXA-273,blaOXA,WP_005069609.1,WP_005069609.1,ENW12288.1,APQN01000012.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-273,Carbapenemase
+blaOXA-304,blaOXA,WP_005304617.1,WP_005304617.1,ENX45276.1,APSC01000007.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-304,Carbapenemase
+blaOXA-305,blaOXA,WP_004792810.1,WP_004792810.1,ENV02983.1,APPF01000021.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-305,Carbapenemase
+blaOXA-322,blaOXA,WP_063862632.1,WP_063862632.1,AGW16404.1,KF203096.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-322,Carbapenemase
+blaOXA-323,blaOXA,WP_063862638.1,WP_063862638.1,AGW16405.1,KF203097.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-323,Carbapenemase
+blaOXA-324,blaOXA,WP_063862643.1,WP_063862643.1,AGW16406.1,KF203098.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-324,Carbapenemase
+blaOXA-325,blaOXA,WP_063862646.1,WP_063862646.1,AGW16407.1,KF203099.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-325,Carbapenemase
+blaOXA-326,blaOXA,WP_063862651.1,WP_063862651.1,AGW16408.1,KF203100.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-326,Carbapenemase
+blaOXA-327,blaOXA,WP_063862656.1,WP_063862656.1,AGW16409.1,KF203101.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-327,Carbapenemase
+blaOXA-328,blaOXA,WP_063862662.1,WP_063862662.1,AGW16410.1,KF203102.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-328,Carbapenemase
+blaOXA-329,blaOXA,WP_063862667.1,WP_063862667.1,AGW16411.1,KF203103.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-329,Carbapenemase
+blaOXA-330,blaOXA,WP_063862674.1,WP_063862674.1,AGW16412.1,KF203104.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-330,Carbapenemase
+blaOXA-331,blaOXA,WP_063862682.1,WP_063862682.1,AGW16413.1,KF203105.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-331,Carbapenemase
+blaOXA-332,blaOXA,WP_063862690.1,WP_063862690.1,AGW16414.1,KF203106.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-332,Carbapenemase
+blaOXA-348,blaOXA,WP_063862718.1,WP_063862718.1,AGW83446.1,KF297577.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-348,Carbapenemase
+blaOXA-349,blaOXA,WP_063862719.1,WP_063862719.1,AGW83447.1,KF297578.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-349,Carbapenemase
+blaOXA-350,blaOXA,WP_063862721.1,WP_063862721.1,AGW83448.1,KF297579.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-350,Carbapenemase
+blaOXA-351,blaOXA,WP_063862722.1,WP_063862722.1,AGW83449.1,KF297580.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-351,Carbapenemase
+blaOXA-352,blaOXA,WP_063862723.1,WP_063862723.1,AGW83450.1,KF297581.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-352,Carbapenemase
+blaOXA-353,blaOXA,WP_063862724.1,WP_063862724.1,AGW83451.1,KF297582.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-353,Carbapenemase
+blaOXA-354,blaOXA,WP_063862725.1,WP_063862725.1,AGW83452.1,KF297583.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-354,Carbapenemase
+blaOXA-357,blaOXA,WP_063862728.1,WP_063862728.1,AGZ83153.1,KF421160.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-357,Carbapenemase
+blaOXA-358,blaOXA,WP_063862729.1,WP_063862729.1,AGZ83154.1,KF421161.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-358,Carbapenemase
+blaOXA-359,blaOXA,WP_063862730.1,WP_063862730.1,AGZ83155.1,KF421162.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-359,Carbapenemase
+blaOXA-417,blaOXA,WP_057089822.1,WP_057089822.1,AIU44173.1,KM220587.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-417,Carbapenemase
+blaOXA-421,blaOXA,WP_017386798.1,WP_017386798.1,AIZ00987.1,KM401566.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-421,Carbapenemase
+blaOXA-500,blaOXA,WP_002121386.1,WP_002121386.1,ALP13523.1,KU167108.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-500,Carbapenemase
+blaOXA-501,blaOXA,WP_063864113.1,WP_063864113.1,ALP13525.1,KU167110.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-501,Carbapenemase
+blaOXA-502,blaOXA,WP_032003497.1,WP_032003497.1,ALP13526.1,KU167111.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-502,Carbapenemase
+blaOXA-503,blaOXA,WP_063864114.1,WP_063864114.1,ALP13524.1,KU167109.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-503,Carbapenemase
+blaOXA-506,blaOXA,WP_032007272.1,WP_032007272.1,AMB17205.1,KU571454.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-506,Carbapenemase
+blaOXA-522,blaOXA,WP_068981637.1,WP_068981637.1,ANW47167.1,KX599408.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-522,Carbapenemase
+blaOXA-526,blaOXA,WP_068981641.1,WP_068981641.1,ANW47168.1,KX599409.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-526,Carbapenemase
+blaOXA-533,blaOXA,WP_068611377.1,WP_068611377.1,ANZ80603.1,KX668472.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-533,Carbapenemase
+blaOXA-563,blaOXA,WP_085562417.1,WP_085562417.1,ARB50423.1,KY767021.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-563,Carbapenemase
+blaOXA-564,blaOXA,WP_085562418.1,WP_085562418.1,ARB50424.1,KY767022.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-564,Carbapenemase
+blaOXA-642,blaOXA,WP_014206564.1,WP_014206564.1,AWA42531.1,MH212162.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-642,Carbapenemase
+blaOXA-678,blaOXA,WP_122630860.1,WP_122630860.1,AXQ11891.1,MH780099.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-678,Carbapenemase
+blaOXA-777,blaOXA,WP_122630923.1,WP_122630923.1,AYN72943.1,MK087756.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-777,Carbapenemase
+blaOXA-778,blaOXA,WP_122630924.1,WP_122630924.1,AYN72945.1,MK087758.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-778,Carbapenemase
+blaOXA-801,blaOXA,WP_136512092.1,WP_136512092.1,QBQ03026.1,MK645913.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-801,Carbapenemase
+blaOXA-802,blaOXA,WP_136512093.1,WP_136512093.1,QBQ03027.1,MK645914.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-802,Carbapenemase
+blaOXA-803,blaOXA,WP_136512094.1,WP_136512094.1,QBQ03028.1,MK645915.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-803,Carbapenemase
+blaOXA-804,blaOXA,WP_136512095.1,WP_136512095.1,QBQ03029.1,MK645916.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-804,Carbapenemase
+blaOXA-805,blaOXA,WP_136512096.1,WP_136512096.1,QBQ03030.1,MK645917.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-805,Carbapenemase
+blaOXA-819,blaOXA,WP_032053762.1,WP_032053762.1,QBQ03044.1,MK645931.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-819,Carbapenemase
+blaOXA-820,blaOXA,WP_032057042.1,WP_032057042.1,QBQ03045.1,MK645932.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-820,Carbapenemase
+blaOXA-821,blaOXA,WP_057061999.1,WP_057061999.1,QBQ03046.1,MK645933.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-821,Carbapenemase
+blaOXA-822,blaOXA,WP_133973918.1,WP_133973918.1,QBX33276.1,MK713326.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-822,Carbapenemase
+blaOXA-826,blaOXA,WP_140423319.1,WP_140423319.1,QCE31566.1,MK810442.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-826,Carbapenemase
+blaOXA-832,blaOXA,WP_086264536.1,WP_086264536.1,QCU71419.1,MK942060.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-832,Carbapenemase
+blaOXA-840,blaOXA,WP_150823472.1,WP_150823472.1,QEJ74009.1,MN339512.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-840,Carbapenemase
+blaOXA-841,blaOXA,WP_150823473.1,WP_150823473.1,QEJ74010.1,MN339513.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-841,Carbapenemase
+blaOXA-842,blaOXA,WP_087088911.1,WP_087088911.1,QEJ74011.1,MN339514.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-842,Carbapenemase
+blaOXA-843,blaOXA,WP_150823474.1,WP_150823474.1,QEJ74012.1,MN339515.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-843,Carbapenemase
+blaOXA-844,blaOXA,WP_150823475.1,WP_150823475.1,QEJ74013.1,MN339516.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-844,Carbapenemase
+blaOXA-941,blaOXA,WP_086395021.1,WP_086395021.1,OTU41007.1,NGIW01000033.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-941,Carbapenemase
+blaOXA-942,blaOXA,WP_078225401.1,WP_078225401.1,OTU70526.1,NGJC01000001.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-942,Carbapenemase
+blaOXA-943,blaOXA,WP_086398931.1,WP_086398931.1,OTU51043.1,NGIX01000012.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-943,Carbapenemase
+blaOXA-978,blaOXA,WP_231869604.1,WP_231869604.1,QWA20177.1,MZ265730.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-978,Carbapenemase
+blaOXA-979,blaOXA,WP_231869605.1,WP_231869605.1,QWA20178.1,MZ265731.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-979,Carbapenemase
+blaOXA-980,blaOXA,WP_081174195.1,WP_081174195.1,QWA20179.1,MZ265732.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-980,Carbapenemase
+blaOXA-985,blaOXA,WP_231869610.1,WP_231869610.1,QWA20184.1,MZ265737.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-985,Carbapenemase
+blaOXA-986,blaOXA,WP_231869611.1,WP_231869611.1,QWA20185.1,MZ265738.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-986,Carbapenemase
+blaOXA-987,blaOXA,WP_231869612.1,WP_231869612.1,QWA20186.1,MZ265739.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-987,Carbapenemase
+blaOXA-988,blaOXA,WP_231869613.1,WP_231869613.1,QWA20187.1,MZ265740.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-988,Carbapenemase
+blaOXA-989,blaOXA,WP_231869614.1,WP_231869614.1,QWA20188.1,MZ265741.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-989,Carbapenemase
+blaOXA-990,blaOXA,WP_231869615.1,WP_231869615.1,QWA20189.1,MZ265742.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-990,Carbapenemase
+blaOXA-992,blaOXA,WP_231869617.1,WP_231869617.1,QWA20191.1,MZ265744.1,OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-992,Carbapenemase
+blaOXA-215,blaOXA,WP_063861712.1,WP_063861712.1,AEV91554.1,JN861783.1,OXA-214 family carbapenem-hydrolyzing class D beta-lactamase OXA-215,Carbapenemase
+blaOXA-264,blaOXA,WP_005087154.1,WP_005087154.1,ENW20318.1,APQQ01000012.1,OXA-214 family carbapenem-hydrolyzing class D beta-lactamase OXA-264,Carbapenemase
+blaOXA-575,blaOXA,WP_104009853.1,WP_104009853.1,AUS83546.1,MG821355.1,OXA-214 family carbapenem-hydrolyzing class D beta-lactamase OXA-575,Carbapenemase
+blaOXA-845,blaOXA,WP_150823476.1,WP_150823476.1,QEJ80882.1,MN370853.1,OXA-214 family carbapenem-hydrolyzing class D beta-lactamase OXA-845,Carbapenemase
+blaOXA-569,blaOXA,WP_102607461.1,WP_102607461.1,AUN87914.1,MG736316.1,OXA-22 family class D beta-lactamase OXA-569,Beta-lactamase (unknown spectrum)
+blaOXA-572,blaOXA,WP_102607464.1,WP_102607464.1,AUN87917.1,MG736319.1,OXA-22 family class D beta-lactamase OXA-572,Beta-lactamase (unknown spectrum)
+blaOXA-574,blaOXA,WP_064808581.1,WP_064808581.1,AUN87919.1,MG736321.1,OXA-22 family class D beta-lactamase OXA-574,Beta-lactamase (unknown spectrum)
+blaOXA-899,blaOXA,WP_154205474.1,WP_154205474.1,QHT72949.1,MN968729.1,OXA-22 family class D beta-lactamase OXA-899,Beta-lactamase (unknown spectrum)
+blaOXA-1001,blaOXA,WP_042088348.1,WP_042088348.1,QWA20201.1,MZ265754.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-1001,Beta-lactamase (unknown spectrum)
+blaOXA-1052,blaOXA,WP_256875607.1,WP_256875607.1,UIC40481.1,OM105665.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-1052,Beta-lactamase (unknown spectrum)
+blaOXA-228,blaOXA,WP_063861837.1,WP_063861837.1,AFM55001.1,JQ422053.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-228,Carbapenemase
+blaOXA-230,blaOXA,WP_063862119.1,WP_063862119.1,AFM55002.1,JQ422054.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-230,Carbapenemase
+blaOXA-257,blaOXA,WP_063862441.1,WP_063862441.1,AGK07370.1,KC567681.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-257,Carbapenemase
+blaOXA-300,blaOXA,WP_004825629.1,WP_004825629.1,ENV20093.1,APPK01000054.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-300,Carbapenemase
+blaOXA-301,blaOXA,WP_005034514.1,WP_005034514.1,ENV90372.1,APQG01000050.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-301,Carbapenemase
+blaOXA-355,blaOXA,WP_063862726.1,WP_063862726.1,AGW83453.1,KF297584.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-355,Carbapenemase
+blaOXA-356,blaOXA,WP_063862727.1,WP_063862727.1,AGW83454.1,KF297585.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-356,Carbapenemase
+blaOXA-418,blaOXA,WP_063862796.1,WP_063862796.1,AIN56719.1,KJ997966.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-418,Carbapenemase
+blaOXA-895,blaOXA,WP_100886243.1,WP_100886243.1,QFU78882.1,MN580133.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-895,Carbapenemase
+blaOXA-930,blaOXA,WP_151781119.1,WP_151781119.1,QNS30065.1,MT968429.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-930,Carbapenemase
+blaOXA-931,blaOXA,WP_190259776.1,WP_190259776.1,QNS30066.1,MT968430.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-931,Carbapenemase
+blaOXA-952,blaOXA,WP_213994598.1,WP_213994598.1,QTG68655.1,MW805229.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-952,Carbapenemase
+blaOXA-953,blaOXA,WP_049044515.1,WP_049044515.1,QTG68656.1,MW805235.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-953,Carbapenemase
+blaOXA-983,blaOXA,WP_231869608.1,WP_231869608.1,QWA20182.1,MZ265735.1,OXA-229 family carbapenem-hydrolyzing class D beta-lactamase OXA-983,Carbapenemase
+blaOXA-103,blaOXA,WP_005025422.1,WP_005025422.1,ENV88740.1,APQF01000011.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-103,Carbapenemase
+blaOXA-1095,blaOXA,WP_242934109.1,WP_242934109.1,UNN26050.1,OM933714.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-1095,Carbapenemase
+blaOXA-133,blaOXA,WP_063861038.1,WP_063861038.1,ACE63186.1,EU571228.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-133,Carbapenemase
+blaOXA-146,blaOXA,WP_063861044.1,WP_063861044.1,ACI28281.1,FJ194494.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-146,Carbapenemase
+blaOXA-165,blaOXA,WP_063861123.1,WP_063861123.1,ADK35869.1,HM488986.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-165,Carbapenemase
+blaOXA-166,blaOXA,WP_063861129.1,WP_063861129.1,ADK35870.1,HM488987.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-166,Carbapenemase
+blaOXA-167,blaOXA,WP_063861133.1,WP_063861133.1,ADK35871.1,HM488988.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-167,Carbapenemase
+blaOXA-168,blaOXA,WP_063861136.1,WP_063861136.1,ADK35872.1,HM488989.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-168,Carbapenemase
+blaOXA-169,blaOXA,WP_063861140.1,WP_063861140.1,ADK35873.1,HM488990.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-169,Carbapenemase
+blaOXA-170,blaOXA,WP_063861151.1,WP_063861151.1,ADK35874.1,HM488991.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-170,Carbapenemase
+blaOXA-171,blaOXA,WP_063861157.1,WP_063861157.1,ADK35875.1,HM488992.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-171,Carbapenemase
+blaOXA-225,blaOXA,WP_063861820.1,WP_063861820.1,AEP43731.1,JN638887.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-225,Carbapenemase
+blaOXA-239,blaOXA,WP_063862190.1,WP_063862190.1,AFN65709.1,JQ837239.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-239,Carbapenemase
+blaOXA-27,blaOXA,WP_063862443.1,WP_063862443.1,AAG35609.2,AF201828.2,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-27,Carbapenemase
+blaOXA-366,blaOXA,WP_063862736.1,WP_063862736.1,AJO16038.1,KP050485.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-366,Carbapenemase
+blaOXA-398,blaOXA,WP_063862757.1,WP_063862757.1,AIT76095.1,KM087842.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-398,Carbapenemase
+blaOXA-422,blaOXA,WP_063862828.1,WP_063862828.1,AIY30331.1,KM433671.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-422,Carbapenemase
+blaOXA-423,blaOXA,WP_063862833.1,WP_063862833.1,AIY30332.1,KM433672.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-423,Carbapenemase
+blaOXA-435,blaOXA,WP_063864078.1,WP_063864078.1,AJT57878.1,KP144324.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-435,Carbapenemase
+blaOXA-440,blaOXA,WP_063864082.1,WP_063864082.1,AKR53962.1,KP727574.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-440,Carbapenemase
+blaOXA-482,blaOXA,WP_063864108.1,WP_063864108.1,AKF41839.1,KP264124.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-482,Carbapenemase
+blaOXA-483,blaOXA,WP_063864109.1,WP_063864109.1,AKF41840.1,KP264125.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-483,Carbapenemase
+blaOXA-49,blaOXA,WP_063864111.1,WP_063864111.1,AAP40270.1,AY288523.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-49,Carbapenemase
+blaOXA-565,blaOXA,WP_085562421.1,WP_085562421.1,ARF19529.1,KY883665.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-565,Carbapenemase
+blaOXA-657,blaOXA,WP_111672907.1,WP_111672907.1,AWU66457.1,MH450209.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-657,Carbapenemase
+blaOXA-73,blaOXA,WP_063864531.1,WP_063864531.1,AAW22056.1,AY762325.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-73,Carbapenemase
+blaOXA-806,blaOXA,WP_136512097.1,WP_136512097.1,QBQ03031.1,MK645918.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-806,Carbapenemase
+blaOXA-807,blaOXA,WP_136512098.1,WP_136512098.1,QBQ03032.1,MK645919.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-807,Carbapenemase
+blaOXA-808,blaOXA,WP_136512099.1,WP_136512099.1,QBQ03033.1,MK645920.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-808,Carbapenemase
+blaOXA-809,blaOXA,WP_136512100.1,WP_136512100.1,QBQ03034.1,MK645921.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-809,Carbapenemase
+blaOXA-810,blaOXA,WP_136512101.1,WP_136512101.1,QBQ03035.1,MK645922.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-810,Carbapenemase
+blaOXA-811,blaOXA,WP_136512102.1,WP_136512102.1,QBQ03036.1,MK645923.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-811,Carbapenemase
+blaOXA-812,blaOXA,WP_034688190.1,WP_034688190.1,QBQ03037.1,MK645924.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-812,Carbapenemase
+blaOXA-813,blaOXA,WP_005404206.1,WP_005404206.1,ACI26264.1,FJ195387.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-813,Carbapenemase
+blaOXA-814,blaOXA,WP_005405613.1,WP_005405613.1,QBQ03039.1,MK645926.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-814,Carbapenemase
+blaOXA-815,blaOXA,WP_111280830.1,WP_111280830.1,QBQ03040.1,MK645927.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-815,Carbapenemase
+blaOXA-816,blaOXA,WP_026444036.1,WP_026444036.1,QBQ03041.1,MK645928.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-816,Carbapenemase
+blaOXA-817,blaOXA,WP_075040046.1,WP_075040046.1,QBQ03042.1,MK645929.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-817,Carbapenemase
+blaOXA-818,blaOXA,WP_034670108.1,WP_034670108.1,QBQ03043.1,MK645930.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-818,Carbapenemase
+blaOXA-893,blaOXA,WP_194293137.1,WP_194293137.1,QFC98035.1,MN514428.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-893,Carbapenemase
+blaOXA-911,blaOXA,WP_168247884.1,WP_168247884.1,QIM14678.1,MT135153.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-911,Carbapenemase
+blaOXA-967,blaOXA,WP_231869594.1,WP_231869594.1,QWA20166.1,MZ265719.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-967,Carbapenemase
+blaOXA-968,blaOXA,WP_231869595.1,WP_231869595.1,QWA20167.1,MZ265720.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-968,Carbapenemase
+blaOXA-969,blaOXA,WP_231869596.1,WP_231869596.1,QWA20168.1,MZ265721.1,OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-969,Carbapenemase
+blaOXA-1040,blaOXA,WP_231869647.1,WP_231869647.1,UBS26085.1,OK271078.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-1040,Carbapenemase
+blaOXA-1081,blaOXA,WP_242934101.1,WP_242934101.1,ULU82656.1,OM638107.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-1081,Carbapenemase
+blaOXA-139,blaOXA,WP_063861040.1,WP_063861040.1,CAQ51348.1,AM991978.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-139,Carbapenemase
+blaOXA-160,blaOXA,WP_063861093.1,WP_063861093.1,ADB28891.1,GU199038.2,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-160,Carbapenemase
+blaOXA-207,blaOXA,WP_057689930.1,WP_057689930.1,AFK28473.1,JQ838185.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-207,Carbapenemase
+blaOXA-24,blaOXA,WP_012754353.1,WP_012754353.1,AAM34291.1,AF509241.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-24,Carbapenemase
+blaOXA-25,blaOXA,WP_063862416.1,WP_063862416.1,AAG35607.1,AF201826.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-25,Carbapenemase
+blaOXA-26,blaOXA,WP_063862442.1,WP_063862442.1,AAG35608.1,AF201827.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-26,Carbapenemase
+blaOXA-437,blaOXA,WP_063864079.1,WP_063864079.1,AKL59536.1,KP410856.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-437,Carbapenemase
+blaOXA-653,blaOXA,WP_087554513.1,WP_087554513.1,AWK58761.1,MH337637.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-653,Carbapenemase
+blaOXA-72,blaOXA,WP_000713530.1,WP_000713530.1,ADB28892.1,GU199039.2,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-72,Carbapenemase
+blaOXA-897,blaOXA,WP_164461290.1,WP_164461290.1,QHI08147.1,MN920418.1,OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-897,Carbapenemase
+blaOXA-661,blaOXA,WP_114699273.1,WP_114699273.1,AXC08553.1,MH549401.1,OXA-266 family class D beta-lactamase OXA-661,Beta-lactamase (unknown spectrum)
+blaOXA-275,blaOXA,WP_004816501.1,WP_004816501.1,ENV18923.1,APPJ01000001.1,OXA-274 family carbapenem-hydrolyzing class D beta-lactamase OXA-275,Beta-lactamase (unknown spectrum)
+blaOXA-667,blaOXA,WP_096735335.1,WP_096735335.1,BAP39082.1,AP014630.1,OXA-274 family carbapenem-hydrolyzing class D beta-lactamase OXA-667,Beta-lactamase (unknown spectrum)
+blaOXA-668,blaOXA,WP_034612711.1,WP_034612711.1,KEC85091.1,JICM01000013.1,OXA-274 family carbapenem-hydrolyzing class D beta-lactamase OXA-668,Beta-lactamase (unknown spectrum)
+blaOXA-669,blaOXA,WP_056517622.1,WP_056517622.1,KQW88842.1,LMED01000027.1,OXA-274 family carbapenem-hydrolyzing class D beta-lactamase OXA-669,Beta-lactamase (unknown spectrum)
+blaOXA-944,blaOXA,WP_256875622.1,WP_256875622.1,QQP64032.1,MW474777.1,OXA-274 family carbapenem-hydrolyzing class D beta-lactamase OXA-944,Carbapenemase
+blaOXA-286,blaOXA,WP_004657207.1,WP_004657207.1,ENU21708.1,APOI01000030.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-286,Beta-lactamase (unknown spectrum)
+blaOXA-287,blaOXA,WP_032865068.1,WP_032865068.1,,APPH01000006.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-287,Beta-lactamase (unknown spectrum)
+blaOXA-288,blaOXA,WP_005201559.1,WP_005201559.1,ENX60508.1,APRN01000033.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-288,Beta-lactamase (unknown spectrum)
+blaOXA-291,blaOXA,WP_005185807.1,WP_005185807.1,ENW94121.1,APRL01000010.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-291,Beta-lactamase (unknown spectrum)
+blaOXA-292,blaOXA,WP_005209448.1,WP_005209448.1,ENX53612.1,APRO01000007.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-292,Beta-lactamase (unknown spectrum)
+blaOXA-293,blaOXA,WP_032877719.1,WP_032877719.1,,APRH01000012.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-293,Beta-lactamase (unknown spectrum)
+blaOXA-302,blaOXA,WP_005238189.1,WP_005238189.1,ENX18112.1,APRT01000004.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-302,Beta-lactamase (unknown spectrum)
+blaOXA-303,blaOXA,WP_005317413.1,WP_005317413.1,ENX56371.1,APSD01000035.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-303,Beta-lactamase (unknown spectrum)
+blaOXA-306,blaOXA,WP_005297518.1,WP_005297518.1,ENX38336.1,APSB01000022.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-306,Beta-lactamase (unknown spectrum)
+blaOXA-307,blaOXA,WP_032879257.1,WP_032879257.1,,APRZ01000019.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-307,Beta-lactamase (unknown spectrum)
+blaOXA-670,blaOXA,WP_016651348.1,WP_016651348.1,EPG42609.1,ATGK01000003.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-670,Beta-lactamase (unknown spectrum)
+blaOXA-671,blaOXA,WP_081401608.1,WP_081401608.1,,ATGG01000004.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-671,Beta-lactamase (unknown spectrum)
+blaOXA-672,blaOXA,WP_023271137.1,WP_023271137.1,ESK38042.1,AYEQ01000166.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-672,Beta-lactamase (unknown spectrum)
+blaOXA-673,blaOXA,WP_016162389.1,WP_016162389.1,EOR10283.1,AQFL01000004.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-673,Beta-lactamase (unknown spectrum)
+blaOXA-674,blaOXA,WP_081406929.1,WP_081406929.1,,JROB01000001.1,OXA-286 family carbapenem-hydrolyzing class D beta-lactamase OXA-674,Beta-lactamase (unknown spectrum)
+blaOXA-1004,blaOXA,WP_231869628.1,WP_231869628.1,QWA20204.1,MZ265757.1,OXA-294 family class D beta-lactamase OXA-1004,Beta-lactamase (unknown spectrum)
+blaOXA-295,blaOXA,WP_005260134.1,WP_005260134.1,ENX19403.1,APRW01000016.1,OXA-294 family class D beta-lactamase OXA-295,Beta-lactamase (unknown spectrum)
+blaOXA-297,blaOXA,WP_005227858.1,WP_005227858.1,ENX09209.1,APRR01000006.1,OXA-294 family class D beta-lactamase OXA-297,Beta-lactamase (unknown spectrum)
+blaOXA-298,blaOXA,WP_005282462.1,WP_005282462.1,ENX40034.1,APSA01000003.1,OXA-294 family class D beta-lactamase OXA-298,Beta-lactamase (unknown spectrum)
+blaOXA-982,blaOXA,WP_231869607.1,WP_231869607.1,QWA20181.1,MZ265734.1,OXA-294 family class D beta-lactamase OXA-982,Beta-lactamase (unknown spectrum)
+blaOXA-984,blaOXA,WP_231869609.1,WP_231869609.1,QWA20183.1,MZ265736.1,OXA-294 family class D beta-lactamase OXA-984,Beta-lactamase (unknown spectrum)
+blaOXA-993,blaOXA,WP_231869618.1,WP_231869618.1,QWA20192.1,MZ265745.1,OXA-294 family class D beta-lactamase OXA-993,Beta-lactamase (unknown spectrum)
+blaOXA-994,blaOXA,WP_231869619.1,WP_231869619.1,QWA20193.1,MZ265746.1,OXA-294 family class D beta-lactamase OXA-994,Beta-lactamase (unknown spectrum)
+blaOXA-995,blaOXA,WP_231869620.1,WP_231869620.1,QWA20194.1,MZ265747.1,OXA-294 family class D beta-lactamase OXA-995,Beta-lactamase (unknown spectrum)
+blaOXA-996,blaOXA,WP_231869621.1,WP_231869621.1,QWA20195.1,MZ265748.1,OXA-294 family class D beta-lactamase OXA-996,Beta-lactamase (unknown spectrum)
+blaOXA-997,blaOXA,WP_231869622.1,WP_231869622.1,QWA20196.1,MZ265749.1,OXA-294 family class D beta-lactamase OXA-997,Beta-lactamase (unknown spectrum)
+blaOXA-998,blaOXA,WP_231869623.1,WP_231869623.1,QWA20197.1,MZ265750.1,OXA-294 family class D beta-lactamase OXA-998,Beta-lactamase (unknown spectrum)
+blaOXA-364,blaOXA,WP_063862734.1,WP_063862734.1,AFR53898.2,JX306689.2,OXA-364 family class D beta-lactamase OXA-364,Beta-lactamase (unknown spectrum)
+blaOXA-455,blaOXA,WP_054428802.1,WP_054428802.1,ALC76097.1,KP903885.1,OXA-364 family class D beta-lactamase OXA-455,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-513,blaOXA,WP_063864194.1,WP_063864194.1,ALX18471.1,KU323972.1,OXA-364 family class D beta-lactamase OXA-513,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-787,blaOXA,WP_136512083.1,WP_136512083.1,QAB42545.1,MK388909.1,OXA-364 family class D beta-lactamase OXA-787,Beta-lactamase (unknown spectrum)
+blaOXA-789,blaOXA,WP_054500785.1,WP_054500785.1,QBC36166.1,MK388910.1,OXA-364 family class D beta-lactamase OXA-789,Beta-lactamase (unknown spectrum)
+blaOXA-1016,blaOXA,WP_219860728.1,WP_219860728.1,QWY90353.1,MZ449319.1,OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-1016,Carbapenemase
+blaOXA-641,blaOXA,WP_109545072.1,WP_109545072.1,AWA42530.1,MH211331.1,OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-641,Carbapenemase
+blaOXA-43,blaOXA,WP_063862921.1,WP_063862921.1,CAD32565.1,AJ488303.1,OXA-42 family oxacillin-hydrolyzing class D beta-lactamase OXA-43,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-57,blaOXA,WP_004547230.1,WP_004547230.1,CAF74882.1,AJ631966.1,OXA-42 family oxacillin-hydrolyzing class D beta-lactamase OXA-57,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-59,blaOXA,WP_004524931.1,WP_004524931.1,CAG15145.1,AJ632249.1,OXA-42 family oxacillin-hydrolyzing class D beta-lactamase OXA-59,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-917,blaOXA,WP_161507793.1,WP_161507793.1,QJX44694.1,MT462583.1,OXA-427 family carbapenem-hydrolyzing class D beta-lactamase OXA-917,Carbapenemase
+blaOXA-1041,blaOXA,WP_231869649.1,WP_231869649.1,UDL18775.1,OK576522.1,OXA-427 family class D beta-lactamase OXA-1041,Beta-lactamase
+blaOXA-118,blaOXA,WP_063861020.1,WP_063861020.1,AAK55330.1,AF371964.1,OXA-46 family oxacillin-hydrolyzing class D beta-lactamase OXA-118,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-205,blaOXA,WP_063861588.1,WP_063861588.1,AEO92079.1,JF800667.1,OXA-46 family oxacillin-hydrolyzing class D beta-lactamase OXA-205,Beta-lactamase (unknown spectrum)
+blaOXA-779,blaOXA,WP_122634438.1,WP_122634438.1,AXH79884.1,MH670655.1,OXA-46 family oxacillin-hydrolyzing class D beta-lactamase OXA-779,Beta-lactamase (unknown spectrum)
+blaOXA-835,blaOXA,WP_148044422.1,WP_148044422.1,QDC28550.1,MN057923.1,OXA-46 family oxacillin-hydrolyzing class D beta-lactamase OXA-835,Beta-lactamase (unknown spectrum)
+blaOXA-1038,blaOXA,WP_231869643.1,WP_231869643.1,UBJ91323.1,OK180617.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-1038,Carbapenemase
+blaOXA-162,blaOXA,WP_060613455.1,WP_060613455.1,ADG27454.1,HM015773.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-162,Carbapenemase
+blaOXA-181,blaOXA,WP_015060052.1,WP_015060052.1,AEP16366.1,JN205800.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-181,Carbapenemase
+blaOXA-199,blaOXA,WP_063861505.1,WP_063861505.1,AFC95894.1,JN704570.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-199,Carbapenemase
+blaOXA-204,blaOXA,WP_032495449.1,WP_032495449.1,AFU91598.1,JQ809466.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-204,Carbapenemase
+blaOXA-232,blaOXA,WP_043907054.1,WP_043907054.1,AGD91915.1,JX423831.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-232,Carbapenemase
+blaOXA-244,blaOXA,WP_032495517.1,WP_032495517.1,AGC60012.1,JX438000.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-244,Carbapenemase
+blaOXA-245,blaOXA,WP_032495518.1,WP_032495518.1,AGC60013.1,JX438001.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-245,Carbapenemase
+blaOXA-247,blaOXA,WP_032495595.1,WP_032495595.1,AGC70814.1,JX893517.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-247,Carbapenemase
+blaOXA-252,blaOXA,WP_037428895.1,WP_037428895.1,ASF15667.1,CP022089.2,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-252,Carbapenemase
+blaOXA-370,blaOXA,WP_032495789.1,WP_032495789.1,AHF71363.1,KF900153.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-370,Carbapenemase
+blaOXA-416,blaOXA,WP_063862782.1,WP_063862782.1,AKH90740.1,KP264119.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-416,Carbapenemase
+blaOXA-438,blaOXA,WP_063864080.1,WP_063864080.1,AKL59521.1,KP410734.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-438,Carbapenemase
+blaOXA-48,blaOXA,WP_015059991.1,WP_015059991.1,AAP70012.1,AY236073.2,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-48,Carbapenemase
+blaOXA-484,blaOXA,WP_063864110.1,WP_063864110.1,ALI16502.1,KR401105.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-484,Carbapenemase
+blaOXA-505,blaOXA,WP_063864118.1,WP_063864118.1,ALZ40809.1,KU531433.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-505,Carbapenemase
+blaOXA-54,blaOXA,WP_011071128.1,WP_011071128.1,AAR89917.1,AY500137.1,OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-54,Carbapenemase
+blaOXA-1055,blaOXA,WP_240067733.1,WP_240067733.1,UKA98426.1,OM321042.1,OXA-48 family class D beta-lactamase OXA-1055,Beta-lactamase (unknown spectrum)
+blaOXA-1119,blaOXA,WP_256875609.1,WP_256875609.1,URF41644.1,ON586156.1,OXA-48 family class D beta-lactamase OXA-1119,Beta-lactamase (unknown spectrum)
+blaOXA-514,blaOXA,WP_094009803.1,WP_094009803.1,AMN85820.1,KU866382.1,OXA-48 family class D beta-lactamase OXA-514,Beta-lactamase (unknown spectrum)
+blaOXA-515,blaOXA,WP_094009804.1,WP_094009804.1,AMN85821.1,KU866383.1,OXA-48 family class D beta-lactamase OXA-515,Beta-lactamase (unknown spectrum)
+blaOXA-517,blaOXA,WP_085562384.1,WP_085562384.1,AMO66558.1,KU878974.1,OXA-48 family class D beta-lactamase OXA-517,Carbapenemase
+blaOXA-519,blaOXA,WP_094009808.1,WP_094009808.1,ANI25017.1,KX349732.1,OXA-48 family class D beta-lactamase OXA-519,Carbapenemase
+blaOXA-538,blaOXA,WP_071593227.1,WP_071593227.1,APB92846.1,KX827284.1,OXA-48 family class D beta-lactamase OXA-538,Carbapenemase
+blaOXA-546,blaOXA,WP_087587945.1,WP_087587945.1,AQX43454.1,KY682756.1,OXA-48 family class D beta-lactamase OXA-546,Beta-lactamase (unknown spectrum)
+blaOXA-547,blaOXA,WP_085562403.1,WP_085562403.1,AQW34754.1,KY684124.1,OXA-48 family class D beta-lactamase OXA-547,Beta-lactamase (unknown spectrum)
+blaOXA-566,blaOXA,WP_094009811.1,WP_094009811.1,ASC55290.1,MF099636.1,OXA-48 family class D beta-lactamase OXA-566,Carbapenemase
+blaOXA-567,blaOXA,WP_099156052.1,WP_099156052.1,ATJ25944.1,MG062673.1,OXA-48 family class D beta-lactamase OXA-567,Carbapenemase
+blaOXA-731,blaOXA,WP_116786833.1,WP_116786833.1,AXM05329.1,MH718729.1,OXA-48 family class D beta-lactamase OXA-731,Beta-lactamase (unknown spectrum)
+blaOXA-788,blaOXA,WP_136512084.1,WP_136512084.1,QAT97596.1,MK416209.1,OXA-48 family class D beta-lactamase OXA-788,Beta-lactamase (unknown spectrum)
+blaOXA-793,blaOXA,WP_136512085.1,WP_136512085.1,QBA86170.1,MK469978.1,OXA-48 family class D beta-lactamase OXA-793,Beta-lactamase (unknown spectrum)
+blaOXA-833,blaOXA,WP_140423324.1,WP_140423324.1,QCY50072.1,MK976702.1,OXA-48 family class D beta-lactamase OXA-833,Beta-lactamase (unknown spectrum)
+blaOXA-894,blaOXA,WP_144376393.1,WP_144376393.1,QFE31714.1,MN525568.1,OXA-48 family class D beta-lactamase OXA-894,Beta-lactamase (unknown spectrum)
+blaOXA-918,blaOXA,WP_179284333.1,WP_179284333.1,QJX44697.1,MT463291.1,OXA-48 family class D beta-lactamase OXA-918,Carbapenemase
+blaOXA-920,blaOXA,WP_179284336.1,WP_179284336.1,QKF95718.1,MT520791.1,OXA-48 family class D beta-lactamase OXA-920,Carbapenemase
+blaOXA-922,blaOXA,WP_188331876.1,WP_188331876.1,QKV50750.1,MT636504.1,OXA-48 family class D beta-lactamase OXA-922,Carbapenemase
+blaOXA-923,blaOXA,WP_179284342.1,WP_179284342.1,QLC28678.1,MT675122.1,OXA-48 family class D beta-lactamase OXA-923,Carbapenemase
+blaOXA-924,blaOXA,WP_179284345.1,WP_179284345.1,QLC28679.1,MT675123.1,OXA-48 family class D beta-lactamase OXA-924,Carbapenemase
+blaOXA-929,blaOXA,WP_188331878.1,WP_188331878.1,QNL15887.1,MK989990.1,OXA-48 family class D beta-lactamase OXA-929,Carbapenemase
+blaOXA-933,blaOXA,WP_231869591.1,WP_231869591.1,QOI60719.1,MW073108.1,OXA-48 family class D beta-lactamase OXA-933,Beta-lactamase (unknown spectrum)
+blaOXA-934,blaOXA,WP_231869592.1,WP_231869592.1,QOI60720.1,MW073109.1,OXA-48 family class D beta-lactamase OXA-934,Beta-lactamase (unknown spectrum)
+blaOXA-163,blaOXA,WP_063131934.1,WP_063131934.1,ADY06444.1,HQ700343.1,OXA-48 family extended-spectrum class D beta-lactamase OXA-163,ESBL
+blaOXA-405,blaOXA,WP_063862762.1,WP_063862762.1,AJA30430.1,KM589641.1,OXA-48 family extended-spectrum class D beta-lactamase OXA-405,ESBL
+blaOXA-439,blaOXA,WP_063864081.1,WP_063864081.1,AKR53961.1,KP727573.1,OXA-48 family extended-spectrum class D beta-lactamase OXA-439,Beta-lactamase (unknown spectrum)
+blaOXA-518,blaOXA,WP_063864216.1,WP_063864216.1,AMR98919.1,KU739134.1,OXA-493 family class D beta-lactamase OXA-518,Beta-lactamase (unknown spectrum)
+blaOXA-129,blaOXA,WP_032492122.1,WP_032492122.1,CAP69660.1,AM932669.1,OXA-5 family class D beta-lactamase OXA-129,Beta-lactamase (unknown spectrum)
+blaOXA-1018,blaOXA,WP_223146972.1,WP_223146972.1,QYH55590.1,MZ672117.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-1018,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1019,blaOXA,WP_196658681.1,WP_196658681.1,QYH55591.1,MZ672118.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-1019,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1031,blaOXA,WP_223146973.1,WP_223146973.1,QYH55603.1,MZ672130.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-1031,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1126,blaOXA,WP_256875614.1,WP_256875614.1,UTS94229.1,ON651476.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-1126,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1128,blaOXA,WP_256875615.1,WP_256875615.1,UTS94232.1,ON651479.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-1128,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1130,blaOXA,WP_256875616.1,WP_256875616.1,UTS94234.1,ON651481.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-1130,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-1134,blaOXA,WP_256875617.1,WP_256875617.1,UTS94238.1,ON651485.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-1134,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-395,blaOXA,WP_015649877.1,WP_015649877.1,AAQ76280.1,AY306133.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-395,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-396,blaOXA,WP_016852290.1,WP_016852290.1,AAQ76282.1,AY306135.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-396,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-485,blaOXA,WP_033954903.1,WP_033954903.1,KSG40284.1,LLNM01000004.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-485,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-494,blaOXA,WP_003118452.1,WP_003118452.1,KSC07307.1,LLLB01000006.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-494,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-846,blaOXA,WP_033989974.1,WP_033989974.1,QEJ80883.1,MN370854.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-846,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-847,blaOXA,WP_010793618.1,WP_010793618.1,QEJ80884.1,MN370855.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-847,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-848,blaOXA,WP_019485147.1,WP_019485147.1,QEJ80885.1,MN370856.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-848,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-849,blaOXA,WP_150823477.1,WP_150823477.1,QEJ80886.1,MN370857.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-849,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-850,blaOXA,WP_034006563.1,WP_034006563.1,QEJ80887.1,MN370858.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-850,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-851,blaOXA,WP_014603442.1,WP_014603442.1,QEJ80888.1,MN370859.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-851,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-901,blaOXA,WP_031757092.1,WP_031757092.1,QIC04084.1,MT040739.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-901,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-902,blaOXA,WP_024916334.1,WP_024916334.1,QIC04085.1,MT040740.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-902,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-903,blaOXA,WP_164461291.1,WP_164461291.1,QIC04086.1,MT040741.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-903,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-904,blaOXA,WP_003122322.1,WP_003122322.1,QIC04087.1,MT040742.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-904,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-905,blaOXA,WP_003161096.1,WP_003161096.1,QIC04088.1,MT040743.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-905,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-906,blaOXA,WP_034005326.1,WP_034005326.1,QIC04089.1,MT040744.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-906,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-907,blaOXA,WP_164461292.1,WP_164461292.1,QIC04090.1,MT040745.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-907,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-908,blaOXA,WP_031694184.1,WP_031694184.1,QIC04091.1,MT040746.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-908,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-913,blaOXA,WP_031691948.1,WP_031691948.1,QIM59620.1,MT210601.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-913,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-914,blaOXA,WP_023132404.1,WP_023132404.1,QIM59621.1,MT210602.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-914,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-937,blaOXA,WP_034081711.1,WP_034081711.1,BCN28654.1,LC595283.1,OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-937,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-100,blaOXA,WP_001021795.1,WP_001021795.1,CAJ77817.2,AM231720.2,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-100,Carbapenemase (OXA-51 family)
+blaOXA-1013,blaOXA,WP_219860726.1,WP_219860726.1,QWW93433.1,MZ424303.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1013,Carbapenemase (OXA-51 family)
+blaOXA-1048,blaOXA,WP_240067728.1,WP_240067728.1,UHO07586.1,OL901275.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1048,Carbapenemase (OXA-51 family)
+blaOXA-1058,blaOXA,WP_242934079.1,WP_242934079.1,ULU82603.1,OM617740.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1058,Carbapenemase (OXA-51 family)
+blaOXA-1059,blaOXA,WP_242934080.1,WP_242934080.1,ULU82604.1,OM617741.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1059,Carbapenemase (OXA-51 family)
+blaOXA-106,blaOXA,WP_031963705.1,WP_031963705.1,ABV31686.1,EF650032.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-106,Carbapenemase (OXA-51 family)
+blaOXA-1060,blaOXA,WP_242934081.1,WP_242934081.1,ULU82605.1,OM617742.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1060,Carbapenemase (OXA-51 family)
+blaOXA-1061,blaOXA,WP_242934082.1,WP_242934082.1,ULU82606.1,OM617743.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1061,Carbapenemase (OXA-51 family)
+blaOXA-1062,blaOXA,WP_242934083.1,WP_242934083.1,ULU82607.1,OM617744.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1062,Carbapenemase (OXA-51 family)
+blaOXA-1063,blaOXA,WP_242934084.1,WP_242934084.1,ULU82608.1,OM617745.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1063,Carbapenemase (OXA-51 family)
+blaOXA-1064,blaOXA,WP_242934085.1,WP_242934085.1,ULU82609.1,OM617746.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1064,Carbapenemase (OXA-51 family)
+blaOXA-1065,blaOXA,WP_242934086.1,WP_242934086.1,ULU82610.1,OM617747.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1065,Carbapenemase (OXA-51 family)
+blaOXA-1066,blaOXA,WP_242934087.1,WP_242934087.1,ULU82612.1,OM617749.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1066,Carbapenemase (OXA-51 family)
+blaOXA-1067,blaOXA,WP_242934088.1,WP_242934088.1,ULU82615.1,OM617752.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1067,Carbapenemase (OXA-51 family)
+blaOXA-1068,blaOXA,WP_242934089.1,WP_242934089.1,ULU82617.1,OM617754.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1068,Carbapenemase (OXA-51 family)
+blaOXA-1069,blaOXA,WP_242934090.1,WP_242934090.1,ULU82618.1,OM617755.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1069,Carbapenemase (OXA-51 family)
+blaOXA-107,blaOXA,WP_046661070.1,WP_046661070.1,ABV31687.1,EF650033.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-107,Carbapenemase (OXA-51 family)
+blaOXA-1070,blaOXA,WP_242934091.1,WP_242934091.1,ULU82619.1,OM617756.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1070,Carbapenemase (OXA-51 family)
+blaOXA-1071,blaOXA,WP_242934092.1,WP_242934092.1,ULU82620.1,OM617757.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1071,Carbapenemase (OXA-51 family)
+blaOXA-1072,blaOXA,WP_242934093.1,WP_242934093.1,ULU82621.1,OM617758.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1072,Carbapenemase (OXA-51 family)
+blaOXA-1073,blaOXA,WP_242934094.1,WP_242934094.1,ULU82622.1,OM617759.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1073,Carbapenemase (OXA-51 family)
+blaOXA-1074,blaOXA,WP_242934095.1,WP_242934095.1,ULU82623.1,OM617760.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1074,Carbapenemase (OXA-51 family)
+blaOXA-1075,blaOXA,WP_242934096.1,WP_242934096.1,ULU82624.1,OM617761.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1075,Carbapenemase (OXA-51 family)
+blaOXA-1077,blaOXA,WP_242934097.1,WP_242934097.1,ULU82626.1,OM617763.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1077,Carbapenemase (OXA-51 family)
+blaOXA-1078,blaOXA,WP_242934098.1,WP_242934098.1,ULU82627.1,OM617764.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1078,Carbapenemase (OXA-51 family)
+blaOXA-1079,blaOXA,WP_242934099.1,WP_242934099.1,ULU82628.1,OM617765.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1079,Carbapenemase (OXA-51 family)
+blaOXA-108,blaOXA,WP_063860938.1,WP_063860938.1,ABV31688.1,EF650034.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-108,Carbapenemase (OXA-51 family)
+blaOXA-1080,blaOXA,WP_242934100.1,WP_242934100.1,ULU82629.1,OM617766.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1080,Carbapenemase (OXA-51 family)
+blaOXA-109,blaOXA,WP_001021794.1,WP_001021794.1,ABV31689.1,EF650035.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-109,Carbapenemase (OXA-51 family)
+blaOXA-1092,blaOXA,WP_242934106.1,WP_242934106.1,UMW71111.1,OL944013.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1092,Carbapenemase (OXA-51 family)
+blaOXA-1093,blaOXA,WP_242934107.1,WP_242934107.1,UMW71112.1,OL944014.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1093,Carbapenemase (OXA-51 family)
+blaOXA-1094,blaOXA,WP_242934108.1,WP_242934108.1,UNN26046.1,OM933710.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1094,Carbapenemase (OXA-51 family)
+blaOXA-1096,blaOXA,WP_242934110.1,WP_242934110.1,UNN26055.1,OM933719.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1096,Carbapenemase (OXA-51 family)
+blaOXA-1097,blaOXA,WP_242934111.1,WP_242934111.1,UNN26057.1,OM933721.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1097,Carbapenemase (OXA-51 family)
+blaOXA-1098,blaOXA,WP_242934112.1,WP_242934112.1,UNN26058.1,OM933722.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1098,Carbapenemase (OXA-51 family)
+blaOXA-110,blaOXA,WP_063860940.1,WP_063860940.1,ABV31690.1,EF650036.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-110,Carbapenemase (OXA-51 family)
+blaOXA-111,blaOXA,WP_049068184.1,WP_049068184.1,ABV31691.1,EF650037.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-111,Carbapenemase (OXA-51 family)
+blaOXA-1117,blaOXA,WP_249828065.1,WP_249828065.1,UOX08353.1,ON212676.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1117,Carbapenemase (OXA-51 family)
+blaOXA-1118,blaOXA,WP_249828066.1,WP_249828066.1,UOX08354.1,ON212677.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1118,Carbapenemase (OXA-51 family)
+blaOXA-112,blaOXA,WP_063860941.1,WP_063860941.1,ABV31692.1,EF650038.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-112,Carbapenemase (OXA-51 family)
+blaOXA-1121,blaOXA,WP_256875611.1,WP_256875611.1,UTS94210.1,ON651457.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1121,Carbapenemase (OXA-51 family)
+blaOXA-1122,blaOXA,WP_256875612.1,WP_256875612.1,UTS94211.1,ON651458.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1122,Carbapenemase (OXA-51 family)
+blaOXA-1123,blaOXA,WP_256875613.1,WP_256875613.1,UTS94212.1,ON651459.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-1123,Carbapenemase (OXA-51 family)
+blaOXA-113,blaOXA,WP_001021786.1,WP_001021786.1,ABW70410.1,EF653400.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-113,Carbapenemase (OXA-51 family)
+blaOXA-115,blaOXA,WP_063861004.1,WP_063861004.1,ABS71123.1,EU029998.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-115,Carbapenemase (OXA-51 family)
+blaOXA-117,blaOXA,WP_002057397.1,WP_002057397.1,ACV49885.1,GQ423625.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-117,Carbapenemase (OXA-51 family)
+blaOXA-120,blaOXA,WP_004738885.1,WP_004738885.1,CCJ32595.1,HE963768.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-120,Carbapenemase (OXA-51 family)
+blaOXA-122,blaOXA,WP_063861030.1,WP_063861030.1,ABX45061.1,EU255291.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-122,Carbapenemase (OXA-51 family)
+blaOXA-123,blaOXA,WP_063861031.1,WP_063861031.1,ABX45062.1,EU255292.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-123,Carbapenemase (OXA-51 family)
+blaOXA-124,blaOXA,WP_063861032.1,WP_063861032.1,ABX45063.1,EU255293.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-124,Carbapenemase (OXA-51 family)
+blaOXA-125,blaOXA,WP_063861033.1,WP_063861033.1,ABX45064.1,EU255294.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-125,Carbapenemase (OXA-51 family)
+blaOXA-126,blaOXA,WP_002047441.1,WP_002047441.1,ABX45065.1,EU255295.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-126,Carbapenemase (OXA-51 family)
+blaOXA-127,blaOXA,WP_063861034.1,WP_063861034.1,ABX45066.1,EU255296.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-127,Carbapenemase (OXA-51 family)
+blaOXA-128,blaOXA,WP_005120067.1,WP_005120067.1,ABY77907.1,EU375515.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-128,Carbapenemase (OXA-51 family)
+blaOXA-130,blaOXA,WP_063861036.1,WP_063861036.1,ACD84988.1,EU547445.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-130,Carbapenemase (OXA-51 family)
+blaOXA-131,blaOXA,WP_063861037.1,WP_063861037.1,ACD84989.1,EU547446.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-131,Carbapenemase (OXA-51 family)
+blaOXA-132,blaOXA,WP_032030965.1,WP_032030965.1,ACD84990.1,EU547447.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-132,Carbapenemase (OXA-51 family)
+blaOXA-138,blaOXA,WP_063861039.1,WP_063861039.1,ACD45467.1,EU670845.2,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-138,Carbapenemase (OXA-51 family)
+blaOXA-144,blaOXA,WP_049581961.1,WP_049581961.1,ACY56711.1,FJ872530.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-144,Carbapenemase (OXA-51 family)
+blaOXA-148,blaOXA,WP_063861046.1,WP_063861046.1,ACX31140.1,GQ853679.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-148,Carbapenemase (OXA-51 family)
+blaOXA-149,blaOXA,WP_063861047.1,WP_063861047.1,ACX31141.1,GQ853680.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-149,Carbapenemase (OXA-51 family)
+blaOXA-150,blaOXA,WP_063861049.1,WP_063861049.1,ACX31142.1,GQ853681.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-150,Carbapenemase (OXA-51 family)
+blaOXA-172,blaOXA,WP_039099030.1,WP_039099030.1,ADI58616.1,HM113558.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-172,Carbapenemase (OXA-51 family)
+blaOXA-173,blaOXA,WP_063861179.1,WP_063861179.1,ADI58617.1,HM113559.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-173,Carbapenemase (OXA-51 family)
+blaOXA-174,blaOXA,WP_063861185.1,WP_063861185.1,ADI58618.1,HM113560.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-174,Carbapenemase (OXA-51 family)
+blaOXA-175,blaOXA,WP_063861191.1,WP_063861191.1,ADI58619.1,HM113561.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-175,Carbapenemase (OXA-51 family)
+blaOXA-176,blaOXA,WP_063861208.1,WP_063861208.1,ADI58620.1,HM113562.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-176,Carbapenemase (OXA-51 family)
+blaOXA-177,blaOXA,WP_063861213.1,WP_063861213.1,ADI58621.1,HM113563.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-177,Carbapenemase (OXA-51 family)
+blaOXA-178,blaOXA,WP_063861221.1,WP_063861221.1,ADI58622.1,HM113564.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-178,Carbapenemase (OXA-51 family)
+blaOXA-179,blaOXA,WP_063861229.1,WP_063861229.1,ADM26744.1,HM570035.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-179,Carbapenemase (OXA-51 family)
+blaOXA-180,blaOXA,WP_001021783.1,WP_001021783.1,ADM26745.1,HM570036.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-180,Carbapenemase (OXA-51 family)
+blaOXA-194,blaOXA,WP_063861475.1,WP_063861475.1,AEB98920.1,HQ425492.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-194,Carbapenemase (OXA-51 family)
+blaOXA-195,blaOXA,WP_063861482.1,WP_063861482.1,AEB98921.1,HQ425493.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-195,Carbapenemase (OXA-51 family)
+blaOXA-196,blaOXA,WP_063861486.1,WP_063861486.1,AEB98922.1,HQ425494.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-196,Carbapenemase (OXA-51 family)
+blaOXA-197,blaOXA,WP_063861490.1,WP_063861490.1,AEB98923.1,HQ425495.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-197,Carbapenemase (OXA-51 family)
+blaOXA-200,blaOXA,WP_063861547.1,WP_063861547.1,ADX07745.1,HQ734811.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-200,Carbapenemase (OXA-51 family)
+blaOXA-201,blaOXA,WP_063861553.1,WP_063861553.1,ADX07746.1,HQ734812.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-201,Carbapenemase (OXA-51 family)
+blaOXA-202,blaOXA,WP_063861560.1,WP_063861560.1,ADX07747.1,HQ734813.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-202,Carbapenemase (OXA-51 family)
+blaOXA-203,blaOXA,WP_063861567.1,WP_063861567.1,ADX07748.1,HQ998857.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-203,Carbapenemase (OXA-51 family)
+blaOXA-206,blaOXA,WP_063861592.1,WP_063861592.1,BAL15076.1,AB634250.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-206,Carbapenemase (OXA-51 family)
+blaOXA-208,blaOXA,WP_001021780.1,WP_001021780.1,CCA94644.1,FR853176.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-208,Carbapenemase (OXA-51 family)
+blaOXA-216,blaOXA,WP_063861733.1,WP_063861733.1,CCA94649.1,FR865168.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-216,Carbapenemase (OXA-51 family)
+blaOXA-217,blaOXA,WP_031978611.1,WP_031978611.1,AEO44980.1,JN603240.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-217,Carbapenemase (OXA-51 family)
+blaOXA-219,blaOXA,WP_063861765.1,WP_063861765.1,AEL17179.1,JN215211.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-219,Carbapenemase (OXA-51 family)
+blaOXA-223,blaOXA,WP_001022758.1,WP_001022758.1,AEL88491.1,JN248564.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-223,Carbapenemase (OXA-51 family)
+blaOXA-234,blaOXA,WP_038350216.1,WP_038350216.1,,JSCO01000073.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-234,Carbapenemase (OXA-51 family)
+blaOXA-241,blaOXA,WP_057066208.1,WP_057066208.1,AFO55201.1,JX025021.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-241,Carbapenemase (OXA-51 family)
+blaOXA-242,blaOXA,WP_001022756.1,WP_001022756.1,AFO55202.1,JX025022.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-242,Carbapenemase (OXA-51 family)
+blaOXA-248,blaOXA,WP_063862402.1,WP_063862402.1,CCJ32596.1,HE963769.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-248,Carbapenemase (OXA-51 family)
+blaOXA-249,blaOXA,WP_063862408.1,WP_063862408.1,CCJ32597.1,HE963770.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-249,Carbapenemase (OXA-51 family)
+blaOXA-250,blaOXA,WP_063862420.1,WP_063862420.1,CCJ32598.1,HE963771.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-250,Carbapenemase (OXA-51 family)
+blaOXA-254,blaOXA,WP_033841866.1,WP_033841866.1,BAN10684.1,AB781687.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-254,Carbapenemase (OXA-51 family)
+blaOXA-260,blaOXA,WP_004715243.1,WP_004715243.1,ENU54757.1,APOR01000009.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-260,Carbapenemase (OXA-51 family)
+blaOXA-261,blaOXA,WP_005111033.1,WP_005111033.1,ENW35072.1,APQV01000009.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-261,Carbapenemase (OXA-51 family)
+blaOXA-262,blaOXA,WP_005132156.1,WP_005132156.1,ENW50687.1,APRA01000005.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-262,Carbapenemase (OXA-51 family)
+blaOXA-263,blaOXA,WP_002133528.1,WP_002133528.1,ENW43915.1,APQY01000006.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-263,Carbapenemase (OXA-51 family)
+blaOXA-312,blaOXA,WP_001021787.1,WP_001021787.1,AGU69250.1,KF057029.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-312,Carbapenemase (OXA-51 family)
+blaOXA-313,blaOXA,WP_063862598.1,WP_063862598.1,AGU69251.1,KF057030.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-313,Carbapenemase (OXA-51 family)
+blaOXA-314,blaOXA,WP_031976872.1,WP_031976872.1,AGU69252.1,KF057031.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-314,Carbapenemase (OXA-51 family)
+blaOXA-315,blaOXA,WP_063862603.1,WP_063862603.1,AGU69253.1,KF057032.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-315,Carbapenemase (OXA-51 family)
+blaOXA-316,blaOXA,WP_063862605.1,WP_063862605.1,AGU69254.1,KF057033.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-316,Carbapenemase (OXA-51 family)
+blaOXA-317,blaOXA,WP_001021778.1,WP_001021778.1,AGU69255.1,KF057034.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-317,Carbapenemase (OXA-51 family)
+blaOXA-336,blaOXA,WP_063862707.1,WP_063862707.1,AHN07452.1,KF048907.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-336,Carbapenemase (OXA-51 family)
+blaOXA-338,blaOXA,WP_063862710.1,WP_063862710.1,AHN07454.1,KF048909.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-338,Carbapenemase (OXA-51 family)
+blaOXA-339,blaOXA,WP_063862711.1,WP_063862711.1,AHN07456.1,KF048911.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-339,Carbapenemase (OXA-51 family)
+blaOXA-341,blaOXA,WP_063862712.1,WP_063862712.1,AHN07458.1,KF048913.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-341,Carbapenemase (OXA-51 family)
+blaOXA-342,blaOXA,WP_063862713.1,WP_063862713.1,AHN07460.1,KF048915.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-342,Carbapenemase (OXA-51 family)
+blaOXA-344,blaOXA,WP_063862715.1,WP_063862715.1,AHN07462.1,KF048917.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-344,Carbapenemase (OXA-51 family)
+blaOXA-345,blaOXA,WP_063862716.1,WP_063862716.1,AHN07463.1,KF048918.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-345,Carbapenemase (OXA-51 family)
+blaOXA-346,blaOXA,WP_063862717.1,WP_063862717.1,AHN07464.1,KF048919.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-346,Carbapenemase (OXA-51 family)
+blaOXA-365,blaOXA,WP_063862735.1,WP_063862735.1,AHI63011.1,KF885217.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-365,Carbapenemase (OXA-51 family)
+blaOXA-371,blaOXA,WP_063862738.1,WP_063862738.1,BAO09635.1,AB871653.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-371,Carbapenemase (OXA-51 family)
+blaOXA-374,blaOXA,WP_032051604.1,WP_032051604.1,AHL30274.1,KF986255.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-374,Carbapenemase (OXA-51 family)
+blaOXA-375,blaOXA,WP_063862741.1,WP_063862741.1,AHL30275.1,KF986256.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-375,Carbapenemase (OXA-51 family)
+blaOXA-376,blaOXA,WP_063862742.1,WP_063862742.1,AHL30276.1,KF986257.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-376,Carbapenemase (OXA-51 family)
+blaOXA-377,blaOXA,WP_063862743.1,WP_063862743.1,AHL30277.1,KF986258.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-377,Carbapenemase (OXA-51 family)
+blaOXA-378,blaOXA,WP_032058439.1,WP_032058439.1,AHL30278.1,KF986259.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-378,Carbapenemase (OXA-51 family)
+blaOXA-379,blaOXA,WP_063862744.1,WP_063862744.1,AHL30279.1,KF986260.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-379,Carbapenemase (OXA-51 family)
+blaOXA-380,blaOXA,WP_063862745.1,WP_063862745.1,AHL30280.1,KF986261.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-380,Carbapenemase (OXA-51 family)
+blaOXA-381,blaOXA,WP_063862746.1,WP_063862746.1,AHL30285.1,KJ135344.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-381,Carbapenemase (OXA-51 family)
+blaOXA-382,blaOXA,WP_063862747.1,WP_063862747.1,AHL30286.1,KJ135345.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-382,Carbapenemase (OXA-51 family)
+blaOXA-383,blaOXA,WP_024438993.1,WP_024438993.1,AHL30281.1,KF986262.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-383,Carbapenemase (OXA-51 family)
+blaOXA-384,blaOXA,WP_063862748.1,WP_063862748.1,AHL30282.1,KF986263.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-384,Carbapenemase (OXA-51 family)
+blaOXA-385,blaOXA,WP_063862749.1,WP_063862749.1,AHL30272.1,KF986253.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-385,Carbapenemase (OXA-51 family)
+blaOXA-386,blaOXA,WP_063862750.1,WP_063862750.1,AHL30273.1,KF986254.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-386,Carbapenemase (OXA-51 family)
+blaOXA-387,blaOXA,WP_063862751.1,WP_063862751.1,AHK51384.1,KJ173478.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-387,Carbapenemase (OXA-51 family)
+blaOXA-388,blaOXA,WP_063862752.1,WP_063862752.1,AHL30284.1,KJ135343.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-388,Carbapenemase (OXA-51 family)
+blaOXA-389,blaOXA,WP_063862753.1,WP_063862753.1,AHL30287.1,KJ135346.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-389,Carbapenemase (OXA-51 family)
+blaOXA-390,blaOXA,WP_063862754.1,WP_063862754.1,AHL30283.1,KJ135342.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-390,Carbapenemase (OXA-51 family)
+blaOXA-391,blaOXA,WP_063862755.1,WP_063862755.1,AHN53381.1,KJ427797.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-391,Carbapenemase (OXA-51 family)
+blaOXA-400,blaOXA,WP_063862758.1,WP_063862758.1,AIS39036.1,KJ780078.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-400,Carbapenemase (OXA-51 family)
+blaOXA-401,blaOXA,WP_063862759.1,WP_063862759.1,AIS39034.1,KJ780076.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-401,Carbapenemase (OXA-51 family)
+blaOXA-402,blaOXA,WP_001021789.1,WP_001021789.1,AIS39035.1,KJ780077.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-402,Carbapenemase (OXA-51 family)
+blaOXA-403,blaOXA,WP_063862760.1,WP_063862760.1,AIM47095.1,KJ920337.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-403,Carbapenemase (OXA-51 family)
+blaOXA-404,blaOXA,WP_063862761.1,WP_063862761.1,AIM47096.1,KJ920338.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-404,Carbapenemase (OXA-51 family)
+blaOXA-406,blaOXA,WP_063862763.1,WP_063862763.1,AJD07402.1,KJ584915.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-406,Carbapenemase (OXA-51 family)
+blaOXA-408,blaOXA,WP_063862764.1,WP_063862764.1,AJD07404.1,KJ584917.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-408,Carbapenemase (OXA-51 family)
+blaOXA-409,blaOXA,WP_063862765.1,WP_063862765.1,AJD07405.1,KJ584918.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-409,Carbapenemase (OXA-51 family)
+blaOXA-411,blaOXA,WP_063862766.1,WP_063862766.1,AJD07406.1,KJ584920.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-411,Carbapenemase (OXA-51 family)
+blaOXA-412,blaOXA,WP_063862767.1,WP_063862767.1,AJD07407.1,KJ584921.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-412,Carbapenemase (OXA-51 family)
+blaOXA-413,blaOXA,WP_063862768.1,WP_063862768.1,AJD07408.1,KJ584922.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-413,Carbapenemase (OXA-51 family)
+blaOXA-414,blaOXA,WP_063862769.1,WP_063862769.1,AJD07401.1,KJ584914.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-414,Carbapenemase (OXA-51 family)
+blaOXA-424,blaOXA,WP_038348285.1,WP_038348285.1,AJA32742.1,KM588352.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-424,Carbapenemase (OXA-51 family)
+blaOXA-425,blaOXA,WP_038348957.1,WP_038348957.1,AJA32743.1,KM588353.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-425,Carbapenemase (OXA-51 family)
+blaOXA-426,blaOXA,WP_038348482.1,WP_038348482.1,AJA32744.1,KM588354.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-426,Carbapenemase (OXA-51 family)
+blaOXA-429,blaOXA,WP_063862915.1,WP_063862915.1,AJG01375.1,KM979376.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-429,Carbapenemase (OXA-51 family)
+blaOXA-430,blaOXA,WP_063862927.1,WP_063862927.1,AJG01376.1,KM979377.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-430,Carbapenemase (OXA-51 family)
+blaOXA-431,blaOXA,WP_063862945.1,WP_063862945.1,AJG01377.1,KM979378.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-431,Carbapenemase (OXA-51 family)
+blaOXA-432,blaOXA,WP_063864076.1,WP_063864076.1,AJG01378.1,KM979379.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-432,Carbapenemase (OXA-51 family)
+blaOXA-433,blaOXA,WP_063864077.1,WP_063864077.1,AJG01379.1,KM979380.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-433,Carbapenemase (OXA-51 family)
+blaOXA-442,blaOXA,WP_063864083.1,WP_063864083.1,AKU37610.1,KP844571.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-442,Carbapenemase (OXA-51 family)
+blaOXA-480,blaOXA,WP_063864106.1,WP_063864106.1,ALL53530.1,KR872296.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-480,Carbapenemase (OXA-51 family)
+blaOXA-497,blaOXA,WP_058061931.1,WP_058061931.1,KRW26153.1,LKJZ01000136.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-497,Carbapenemase (OXA-51 family)
+blaOXA-507,blaOXA,WP_063864138.1,WP_063864138.1,AMB17204.1,KU551305.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-507,Carbapenemase (OXA-51 family)
+blaOXA-508,blaOXA,WP_063864150.1,WP_063864150.1,AMB57506.1,KU596972.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-508,Carbapenemase (OXA-51 family)
+blaOXA-509,blaOXA,WP_063864158.1,WP_063864158.1,AMJ17435.1,KU692025.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-509,Carbapenemase (OXA-51 family)
+blaOXA-51,blaOXA,WP_002033109.1,WP_002033109.1,CAC83905.2,AJ309734.2,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-51,Carbapenemase (OXA-51 family)
+blaOXA-510,blaOXA,WP_068981635.1,WP_068981635.1,AMJ17434.1,KU710721.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-510,Carbapenemase (OXA-51 family)
+blaOXA-511,blaOXA,WP_068981636.1,WP_068981636.1,AMJ17433.1,KU710720.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-511,Carbapenemase (OXA-51 family)
+blaOXA-516,blaOXA,WP_063864208.1,WP_063864208.1,AMO28427.1,KU871391.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-516,Carbapenemase (OXA-51 family)
+blaOXA-521,blaOXA,WP_065419572.1,WP_065419572.1,ANQ38581.1,KX462701.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-521,Carbapenemase (OXA-51 family)
+blaOXA-523,blaOXA,WP_068981638.1,WP_068981638.1,ANW47160.1,KX599401.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-523,Carbapenemase (OXA-51 family)
+blaOXA-524,blaOXA,WP_068981639.1,WP_068981639.1,ANW47161.1,KX599402.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-524,Carbapenemase (OXA-51 family)
+blaOXA-525,blaOXA,WP_068981640.1,WP_068981640.1,ANW47165.1,KX599406.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-525,Carbapenemase (OXA-51 family)
+blaOXA-528,blaOXA,WP_068981643.1,WP_068981643.1,ANW47166.1,KX599407.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-528,Carbapenemase (OXA-51 family)
+blaOXA-529,blaOXA,WP_068981644.1,WP_068981644.1,ANW47164.1,KX599405.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-529,Carbapenemase (OXA-51 family)
+blaOXA-530,blaOXA,WP_068981645.1,WP_068981645.1,ANW47157.1,KX599398.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-530,Carbapenemase (OXA-51 family)
+blaOXA-531,blaOXA,WP_068981646.1,WP_068981646.1,ANW47159.1,KX599400.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-531,Carbapenemase (OXA-51 family)
+blaOXA-532,blaOXA,WP_068981647.1,WP_068981647.1,ANW69916.1,KX609247.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-532,Carbapenemase (OXA-51 family)
+blaOXA-536,blaOXA,WP_070064535.1,WP_070064535.1,AOR84133.1,KX859240.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-536,Carbapenemase (OXA-51 family)
+blaOXA-545,blaOXA,WP_085562402.1,WP_085562402.1,AQV05408.1,KY674541.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-545,Carbapenemase (OXA-51 family)
+blaOXA-554,blaOXA,WP_085562408.1,WP_085562408.1,AQZ59623.1,KY126221.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-554,Carbapenemase (OXA-51 family)
+blaOXA-555,blaOXA,WP_085562409.1,WP_085562409.1,AQZ59626.1,KY126224.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-555,Carbapenemase (OXA-51 family)
+blaOXA-556,blaOXA,WP_085562410.1,WP_085562410.1,AQZ59633.1,KY126231.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-556,Carbapenemase (OXA-51 family)
+blaOXA-557,blaOXA,WP_085562411.1,WP_085562411.1,AQZ59634.1,KY126232.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-557,Carbapenemase (OXA-51 family)
+blaOXA-558,blaOXA,WP_085562412.1,WP_085562412.1,AQZ59636.1,KY126234.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-558,Carbapenemase (OXA-51 family)
+blaOXA-559,blaOXA,WP_085562413.1,WP_085562413.1,AQZ59639.1,KY126237.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-559,Carbapenemase (OXA-51 family)
+blaOXA-560,blaOXA,WP_085562414.1,WP_085562414.1,AQZ59640.1,KY126238.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-560,Carbapenemase (OXA-51 family)
+blaOXA-561,blaOXA,WP_085562415.1,WP_085562415.1,AQZ59642.1,KY126240.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-561,Carbapenemase (OXA-51 family)
+blaOXA-562,blaOXA,WP_085562416.1,WP_085562416.1,AQZ59643.1,KY126241.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-562,Carbapenemase (OXA-51 family)
+blaOXA-64,blaOXA,WP_001021788.1,WP_001021788.1,AAW81336.1,AY750907.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-64,Carbapenemase (OXA-51 family)
+blaOXA-65,blaOXA,WP_001021782.1,WP_001021782.1,AAW81337.1,AY750908.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-65,Carbapenemase (OXA-51 family)
+blaOXA-654,blaOXA,WP_109791216.1,WP_109791216.1,AWK58845.1,MH337646.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-654,Carbapenemase (OXA-51 family)
+blaOXA-67,blaOXA,WP_063864529.1,WP_063864529.1,ABF50983.1,DQ491200.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-67,Carbapenemase (OXA-51 family)
+blaOXA-68,blaOXA,WP_001021775.1,WP_001021775.1,AAW81339.1,AY750910.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-68,Carbapenemase (OXA-51 family)
+blaOXA-680,blaOXA,WP_122630864.1,WP_122630864.1,AXY66404.1,MH878938.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-680,Carbapenemase (OXA-51 family)
+blaOXA-682,blaOXA,WP_122630884.1,WP_122630884.1,AYG97663.1,MK011132.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-682,Carbapenemase (OXA-51 family)
+blaOXA-683,blaOXA,WP_122630885.1,WP_122630885.1,AYG97664.1,MK011133.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-683,Carbapenemase (OXA-51 family)
+blaOXA-684,blaOXA,WP_122630886.1,WP_122630886.1,AYG97665.1,MK011134.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-684,Carbapenemase (OXA-51 family)
+blaOXA-685,blaOXA,WP_122630887.1,WP_122630887.1,AYG97666.1,MK011135.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-685,Carbapenemase (OXA-51 family)
+blaOXA-686,blaOXA,WP_122630888.1,WP_122630888.1,AYG97667.1,MK011136.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-686,Carbapenemase (OXA-51 family)
+blaOXA-687,blaOXA,WP_122630889.1,WP_122630889.1,AYG97668.1,MK011137.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-687,Carbapenemase (OXA-51 family)
+blaOXA-688,blaOXA,WP_122630890.1,WP_122630890.1,AYG97669.1,MK011138.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-688,Carbapenemase (OXA-51 family)
+blaOXA-689,blaOXA,WP_122630891.1,WP_122630891.1,AYG97670.1,MK011139.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-689,Carbapenemase (OXA-51 family)
+blaOXA-690,blaOXA,WP_122630892.1,WP_122630892.1,AYG97671.1,MK011140.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-690,Carbapenemase (OXA-51 family)
+blaOXA-691,blaOXA,WP_122630893.1,WP_122630893.1,AYG97672.1,MK011141.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-691,Carbapenemase (OXA-51 family)
+blaOXA-692,blaOXA,WP_122630894.1,WP_122630894.1,AYG97673.1,MK011142.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-692,Carbapenemase (OXA-51 family)
+blaOXA-693,blaOXA,WP_122630895.1,WP_122630895.1,AYG97674.1,MK011143.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-693,Carbapenemase (OXA-51 family)
+blaOXA-694,blaOXA,WP_122630896.1,WP_122630896.1,AYG97675.1,MK011144.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-694,Carbapenemase (OXA-51 family)
+blaOXA-695,blaOXA,WP_122630897.1,WP_122630897.1,AYG97676.1,MK011145.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-695,Carbapenemase (OXA-51 family)
+blaOXA-696,blaOXA,WP_122630898.1,WP_122630898.1,AYG97677.1,MK011146.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-696,Carbapenemase (OXA-51 family)
+blaOXA-697,blaOXA,WP_122630899.1,WP_122630899.1,AYG97678.1,MK011147.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-697,Carbapenemase (OXA-51 family)
+blaOXA-698,blaOXA,WP_122630900.1,WP_122630900.1,AYG97679.1,MK011148.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-698,Carbapenemase (OXA-51 family)
+blaOXA-699,blaOXA,WP_122630901.1,WP_122630901.1,AYG97680.1,MK011149.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-699,Carbapenemase (OXA-51 family)
+blaOXA-70,blaOXA,WP_032000166.1,WP_032000166.1,AAW81341.1,AY750912.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-70,Carbapenemase (OXA-51 family)
+blaOXA-700,blaOXA,WP_122630902.1,WP_122630902.1,AYG97681.1,MK011150.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-700,Carbapenemase (OXA-51 family)
+blaOXA-701,blaOXA,WP_122630903.1,WP_122630903.1,AYG97682.1,MK011151.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-701,Carbapenemase (OXA-51 family)
+blaOXA-702,blaOXA,WP_122630904.1,WP_122630904.1,AYG97684.1,MK011153.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-702,Carbapenemase (OXA-51 family)
+blaOXA-703,blaOXA,WP_122630905.1,WP_122630905.1,AYG97685.1,MK011154.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-703,Carbapenemase (OXA-51 family)
+blaOXA-704,blaOXA,WP_122630906.1,WP_122630906.1,AYG97686.1,MK011155.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-704,Carbapenemase (OXA-51 family)
+blaOXA-705,blaOXA,WP_122630907.1,WP_122630907.1,AYG97687.1,MK011156.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-705,Carbapenemase (OXA-51 family)
+blaOXA-706,blaOXA,WP_122630908.1,WP_122630908.1,AYG97688.1,MK011157.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-706,Carbapenemase (OXA-51 family)
+blaOXA-707,blaOXA,WP_122630909.1,WP_122630909.1,AYG97689.1,MK011158.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-707,Carbapenemase (OXA-51 family)
+blaOXA-708,blaOXA,WP_122630916.1,WP_122630916.1,AYG97697.1,MK011166.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-708,Carbapenemase (OXA-51 family)
+blaOXA-709,blaOXA,WP_122630917.1,WP_122630917.1,AYG97698.1,MK011167.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-709,Carbapenemase (OXA-51 family)
+blaOXA-71,blaOXA,WP_001021785.1,WP_001021785.1,AAW81342.1,AY750913.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-71,Carbapenemase (OXA-51 family)
+blaOXA-710,blaOXA,WP_122630918.1,WP_122630918.1,AYG97699.1,MK011168.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-710,Carbapenemase (OXA-51 family)
+blaOXA-711,blaOXA,WP_122630919.1,WP_122630919.1,AYG97700.1,MK011169.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-711,Carbapenemase (OXA-51 family)
+blaOXA-712,blaOXA,WP_122630920.1,WP_122630920.1,AYG97701.1,MK011170.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-712,Carbapenemase (OXA-51 family)
+blaOXA-713,blaOXA,WP_122630921.1,WP_122630921.1,AYG97702.1,MK011171.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-713,Carbapenemase (OXA-51 family)
+blaOXA-714,blaOXA,WP_122630922.1,WP_122630922.1,AYG97703.1,MK011172.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-714,Carbapenemase (OXA-51 family)
+blaOXA-715,blaOXA,WP_016685888.1,WP_016685888.1,AYG97704.1,MK011173.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-715,Carbapenemase (OXA-51 family)
+blaOXA-716,blaOXA,WP_031998610.1,WP_031998610.1,AYG97705.1,MK011174.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-716,Carbapenemase (OXA-51 family)
+blaOXA-717,blaOXA,WP_032018141.1,WP_032018141.1,AYG97706.1,MK011175.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-717,Carbapenemase (OXA-51 family)
+blaOXA-718,blaOXA,WP_122630910.1,WP_122630910.1,AYG97690.1,MK011159.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-718,Carbapenemase (OXA-51 family)
+blaOXA-719,blaOXA,WP_122630911.1,WP_122630911.1,AYG97691.1,MK011160.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-719,Carbapenemase (OXA-51 family)
+blaOXA-720,blaOXA,WP_122630912.1,WP_122630912.1,AYG97692.1,MK011161.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-720,Carbapenemase (OXA-51 family)
+blaOXA-721,blaOXA,WP_122630913.1,WP_122630913.1,AYG97693.1,MK011162.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-721,Carbapenemase (OXA-51 family)
+blaOXA-722,blaOXA,WP_122630914.1,WP_122630914.1,AYG97695.1,MK011164.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-722,Carbapenemase (OXA-51 family)
+blaOXA-723,blaOXA,WP_122630915.1,WP_122630915.1,AYG97696.1,MK011165.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-723,Carbapenemase (OXA-51 family)
+blaOXA-733,blaOXA,WP_122630844.1,WP_122630844.1,AXQ11762.1,MH780076.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-733,Carbapenemase (OXA-51 family)
+blaOXA-734,blaOXA,WP_122630853.1,WP_122630853.1,AXQ11884.1,MH780092.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-734,Carbapenemase (OXA-51 family)
+blaOXA-735,blaOXA,WP_122630854.1,WP_122630854.1,AXQ11885.1,MH780093.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-735,Carbapenemase (OXA-51 family)
+blaOXA-738,blaOXA,WP_128268238.1,WP_128268238.1,AYP70956.1,MK105925.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-738,Carbapenemase (OXA-51 family)
+blaOXA-739,blaOXA,WP_114225343.1,WP_114225343.1,AXH79878.1,MG717458.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-739,Carbapenemase (OXA-51 family)
+blaOXA-740,blaOXA,WP_128268239.1,WP_128268239.1,AYP70958.1,MK105927.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-740,Carbapenemase (OXA-51 family)
+blaOXA-741,blaOXA,WP_128268240.1,WP_128268240.1,AYP70959.1,MK105928.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-741,Carbapenemase (OXA-51 family)
+blaOXA-742,blaOXA,WP_128268241.1,WP_128268241.1,AYP70960.1,MK105929.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-742,Carbapenemase (OXA-51 family)
+blaOXA-743,blaOXA,WP_128268242.1,WP_128268242.1,AYP70961.1,MK105930.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-743,Carbapenemase (OXA-51 family)
+blaOXA-744,blaOXA,WP_128268243.1,WP_128268243.1,AYP70962.1,MK105931.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-744,Carbapenemase (OXA-51 family)
+blaOXA-745,blaOXA,WP_128268244.1,WP_128268244.1,AYP70963.1,MK105932.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-745,Carbapenemase (OXA-51 family)
+blaOXA-746,blaOXA,WP_128268245.1,WP_128268245.1,AYP70965.1,MK105934.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-746,Carbapenemase (OXA-51 family)
+blaOXA-747,blaOXA,WP_128268246.1,WP_128268246.1,AYP70966.1,MK105935.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-747,Carbapenemase (OXA-51 family)
+blaOXA-748,blaOXA,WP_128268247.1,WP_128268247.1,AYP70968.1,MK105937.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-748,Carbapenemase (OXA-51 family)
+blaOXA-749,blaOXA,WP_128268248.1,WP_128268248.1,AYP70969.1,MK105938.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-749,Carbapenemase (OXA-51 family)
+blaOXA-750,blaOXA,WP_128268249.1,WP_128268249.1,AYP70970.1,MK105939.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-750,Carbapenemase (OXA-51 family)
+blaOXA-751,blaOXA,WP_128268250.1,WP_128268250.1,AYP70971.1,MK105940.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-751,Carbapenemase (OXA-51 family)
+blaOXA-752,blaOXA,WP_128268251.1,WP_128268251.1,AYP70972.1,MK105941.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-752,Carbapenemase (OXA-51 family)
+blaOXA-753,blaOXA,WP_128268252.1,WP_128268252.1,AYP70973.1,MK105942.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-753,Carbapenemase (OXA-51 family)
+blaOXA-754,blaOXA,WP_128268253.1,WP_128268253.1,AYP70974.1,MK105943.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-754,Carbapenemase (OXA-51 family)
+blaOXA-755,blaOXA,WP_128268254.1,WP_128268254.1,AYP70975.1,MK105944.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-755,Carbapenemase (OXA-51 family)
+blaOXA-756,blaOXA,WP_128268255.1,WP_128268255.1,AYP70976.1,MK105945.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-756,Carbapenemase (OXA-51 family)
+blaOXA-757,blaOXA,WP_128268256.1,WP_128268256.1,AYP70977.1,MK105946.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-757,Carbapenemase (OXA-51 family)
+blaOXA-758,blaOXA,WP_128268257.1,WP_128268257.1,AYP70978.1,MK105947.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-758,Carbapenemase (OXA-51 family)
+blaOXA-759,blaOXA,WP_128268258.1,WP_128268258.1,AYP70979.1,MK105948.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-759,Carbapenemase (OXA-51 family)
+blaOXA-76,blaOXA,WP_063864533.1,WP_063864533.1,AAX51234.1,AY949203.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-76,Carbapenemase (OXA-51 family)
+blaOXA-760,blaOXA,WP_128268259.1,WP_128268259.1,AYP70980.1,MK105949.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-760,Carbapenemase (OXA-51 family)
+blaOXA-761,blaOXA,WP_128268260.1,WP_128268260.1,AYP70981.1,MK105950.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-761,Carbapenemase (OXA-51 family)
+blaOXA-762,blaOXA,WP_128268261.1,WP_128268261.1,AYP70982.1,MK105951.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-762,Carbapenemase (OXA-51 family)
+blaOXA-763,blaOXA,WP_128268262.1,WP_128268262.1,AYP70983.1,MK105952.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-763,Carbapenemase (OXA-51 family)
+blaOXA-764,blaOXA,WP_128268263.1,WP_128268263.1,AYP70984.1,MK105953.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-764,Carbapenemase (OXA-51 family)
+blaOXA-765,blaOXA,WP_128268264.1,WP_128268264.1,AYP70985.1,MK105954.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-765,Carbapenemase (OXA-51 family)
+blaOXA-766,blaOXA,WP_128268265.1,WP_128268265.1,AYP70986.1,MK105955.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-766,Carbapenemase (OXA-51 family)
+blaOXA-767,blaOXA,WP_128268266.1,WP_128268266.1,AYP70987.1,MK105956.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-767,Carbapenemase (OXA-51 family)
+blaOXA-768,blaOXA,WP_128268267.1,WP_128268267.1,AYP70988.1,MK105957.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-768,Carbapenemase (OXA-51 family)
+blaOXA-769,blaOXA,WP_128268268.1,WP_128268268.1,AYP70989.1,MK105958.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-769,Carbapenemase (OXA-51 family)
+blaOXA-77,blaOXA,WP_063864534.1,WP_063864534.1,AAX51233.1,AY949202.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-77,Carbapenemase (OXA-51 family)
+blaOXA-770,blaOXA,WP_128268269.1,WP_128268269.1,AYP70990.1,MK105959.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-770,Carbapenemase (OXA-51 family)
+blaOXA-771,blaOXA,WP_128268270.1,WP_128268270.1,AYP70991.1,MK105961.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-771,Carbapenemase (OXA-51 family)
+blaOXA-772,blaOXA,WP_128268271.1,WP_128268271.1,AYP70992.1,MK105962.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-772,Carbapenemase (OXA-51 family)
+blaOXA-773,blaOXA,WP_128268272.1,WP_128268272.1,AYP70993.1,MK105963.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-773,Carbapenemase (OXA-51 family)
+blaOXA-774,blaOXA,WP_128268273.1,WP_128268273.1,AYP70996.1,MK105966.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-774,Carbapenemase (OXA-51 family)
+blaOXA-775,blaOXA,WP_128268274.1,WP_128268274.1,AYP70997.1,MK105967.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-775,Carbapenemase (OXA-51 family)
+blaOXA-776,blaOXA,WP_128268275.1,WP_128268275.1,AYP70999.1,MK105969.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-776,Carbapenemase (OXA-51 family)
+blaOXA-78,blaOXA,WP_005139262.1,WP_005139262.1,AAW81358.1,AY862132.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-78,Carbapenemase (OXA-51 family)
+blaOXA-781,blaOXA,WP_128268276.1,WP_128268276.1,AXH79876.1,MG717456.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-781,Carbapenemase (OXA-51 family)
+blaOXA-782,blaOXA,WP_128268277.1,WP_128268277.1,AXH79877.1,MG717457.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-782,Carbapenemase (OXA-51 family)
+blaOXA-79,blaOXA,WP_063864535.1,WP_063864535.1,ABV71246.1,EU019534.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-79,Carbapenemase (OXA-51 family)
+blaOXA-797,blaOXA,WP_136512088.1,WP_136512088.1,QBQ03022.1,MK645223.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-797,Carbapenemase (OXA-51 family)
+blaOXA-798,blaOXA,WP_136512089.1,WP_136512089.1,QBQ03023.1,MK645910.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-798,Carbapenemase (OXA-51 family)
+blaOXA-799,blaOXA,WP_136512090.1,WP_136512090.1,QBQ03024.1,MK645911.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-799,Carbapenemase (OXA-51 family)
+blaOXA-80,blaOXA,WP_063864536.1,WP_063864536.1,ABV71247.1,EU019535.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-80,Carbapenemase (OXA-51 family)
+blaOXA-800,blaOXA,WP_136512091.1,WP_136512091.1,QBQ03025.1,MK645912.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-800,Carbapenemase (OXA-51 family)
+blaOXA-82,blaOXA,WP_001021793.1,WP_001021793.1,ABV71248.1,EU019536.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-82,Carbapenemase (OXA-51 family)
+blaOXA-828,blaOXA,WP_140423321.1,WP_140423321.1,QCQ81077.1,MK913672.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-828,Carbapenemase (OXA-51 family)
+blaOXA-829,blaOXA,WP_140423322.1,WP_140423322.1,QCQ81078.1,MK913673.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-829,Carbapenemase (OXA-51 family)
+blaOXA-83,blaOXA,WP_057046497.1,WP_057046497.1,ABC26007.1,DQ309277.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-83,Carbapenemase (OXA-51 family)
+blaOXA-831,blaOXA,WP_140423323.1,WP_140423323.1,QCQ81090.1,MK933721.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-831,Carbapenemase (OXA-51 family)
+blaOXA-834,blaOXA,WP_125052736.1,WP_125052736.1,QCO82814.1,CP039993.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-834,Carbapenemase (OXA-51 family)
+blaOXA-84,blaOXA,WP_063864537.1,WP_063864537.1,ABC26006.1,DQ309276.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-84,Carbapenemase (OXA-51 family)
+blaOXA-852,blaOXA,WP_152315469.1,WP_152315469.1,QEV81466.1,MN476889.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-852,Carbapenemase (OXA-51 family)
+blaOXA-853,blaOXA,WP_114252036.1,WP_114252036.1,QEV81467.1,MN476890.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-853,Carbapenemase (OXA-51 family)
+blaOXA-854,blaOXA,WP_114158997.1,WP_114158997.1,QEV81468.1,MN476891.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-854,Carbapenemase (OXA-51 family)
+blaOXA-855,blaOXA,WP_032061328.1,WP_032061328.1,QEV81469.1,MN476892.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-855,Carbapenemase (OXA-51 family)
+blaOXA-856,blaOXA,WP_001021774.1,WP_001021774.1,QEV81470.1,MN476893.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-856,Carbapenemase (OXA-51 family)
+blaOXA-857,blaOXA,WP_152315470.1,WP_152315470.1,QEV81471.1,MN476894.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-857,Carbapenemase (OXA-51 family)
+blaOXA-858,blaOXA,WP_152315471.1,WP_152315471.1,QEV81472.1,MN476895.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-858,Carbapenemase (OXA-51 family)
+blaOXA-859,blaOXA,WP_152315472.1,WP_152315472.1,QEV81473.1,MN476896.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-859,Carbapenemase (OXA-51 family)
+blaOXA-86,blaOXA,WP_063864539.1,WP_063864539.1,AAZ78361.1,DQ149247.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-86,Carbapenemase (OXA-51 family)
+blaOXA-860,blaOXA,WP_152315473.1,WP_152315473.1,QEV81474.1,MN476897.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-860,Carbapenemase (OXA-51 family)
+blaOXA-861,blaOXA,WP_152315474.1,WP_152315474.1,QEV81475.1,MN476898.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-861,Carbapenemase (OXA-51 family)
+blaOXA-862,blaOXA,WP_152315475.1,WP_152315475.1,QEV81476.1,MN476901.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-862,Carbapenemase (OXA-51 family)
+blaOXA-863,blaOXA,WP_152315476.1,WP_152315476.1,QEV81477.1,MN476902.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-863,Carbapenemase (OXA-51 family)
+blaOXA-864,blaOXA,WP_152315477.1,WP_152315477.1,QEV81478.1,MN476903.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-864,Carbapenemase (OXA-51 family)
+blaOXA-865,blaOXA,WP_152315478.1,WP_152315478.1,QEV81479.1,MN476904.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-865,Carbapenemase (OXA-51 family)
+blaOXA-866,blaOXA,WP_152315479.1,WP_152315479.1,QEV81480.1,MN476905.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-866,Carbapenemase (OXA-51 family)
+blaOXA-867,blaOXA,WP_152315480.1,WP_152315480.1,QEV81481.1,MN476906.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-867,Carbapenemase (OXA-51 family)
+blaOXA-868,blaOXA,WP_152315481.1,WP_152315481.1,QEV81482.1,MN476907.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-868,Carbapenemase (OXA-51 family)
+blaOXA-869,blaOXA,WP_152315482.1,WP_152315482.1,QEV81483.1,MN476908.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-869,Carbapenemase (OXA-51 family)
+blaOXA-87,blaOXA,WP_032491656.1,WP_032491656.1,ABC84263.1,DQ348075.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-87,Carbapenemase (OXA-51 family)
+blaOXA-870,blaOXA,WP_152315483.1,WP_152315483.1,QEV81484.1,MN476909.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-870,Carbapenemase (OXA-51 family)
+blaOXA-871,blaOXA,WP_152315484.1,WP_152315484.1,QEV81485.1,MN476910.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-871,Carbapenemase (OXA-51 family)
+blaOXA-872,blaOXA,WP_152315485.1,WP_152315485.1,QEV81486.1,MN476911.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-872,Carbapenemase (OXA-51 family)
+blaOXA-873,blaOXA,WP_152315486.1,WP_152315486.1,QEV81488.1,MN476913.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-873,Carbapenemase (OXA-51 family)
+blaOXA-874,blaOXA,WP_152315487.1,WP_152315487.1,QEV81489.1,MN476914.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-874,Carbapenemase (OXA-51 family)
+blaOXA-875,blaOXA,WP_152315488.1,WP_152315488.1,QEV81490.1,MN476915.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-875,Carbapenemase (OXA-51 family)
+blaOXA-876,blaOXA,WP_152315489.1,WP_152315489.1,QEV81491.1,MN476916.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-876,Carbapenemase (OXA-51 family)
+blaOXA-877,blaOXA,WP_152315490.1,WP_152315490.1,QEV81492.1,MN476917.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-877,Carbapenemase (OXA-51 family)
+blaOXA-878,blaOXA,WP_152315491.1,WP_152315491.1,QEV81493.1,MN476918.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-878,Carbapenemase (OXA-51 family)
+blaOXA-879,blaOXA,WP_152315492.1,WP_152315492.1,QEV81494.1,MN476919.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-879,Carbapenemase (OXA-51 family)
+blaOXA-88,blaOXA,WP_063864540.1,WP_063864540.1,ABD48715.1,DQ392963.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-88,Carbapenemase (OXA-51 family)
+blaOXA-880,blaOXA,WP_152315493.1,WP_152315493.1,QEV81495.1,MN476920.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-880,Carbapenemase (OXA-51 family)
+blaOXA-881,blaOXA,WP_152315494.1,WP_152315494.1,QEV81496.1,MN476921.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-881,Carbapenemase (OXA-51 family)
+blaOXA-882,blaOXA,WP_152315495.1,WP_152315495.1,QEV81497.1,MN476922.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-882,Carbapenemase (OXA-51 family)
+blaOXA-883,blaOXA,WP_152315496.1,WP_152315496.1,QEV81498.1,MN476923.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-883,Carbapenemase (OXA-51 family)
+blaOXA-884,blaOXA,WP_152315497.1,WP_152315497.1,QEV81499.1,MN476924.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-884,Carbapenemase (OXA-51 family)
+blaOXA-885,blaOXA,WP_152315498.1,WP_152315498.1,QEV81500.1,MN476925.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-885,Carbapenemase (OXA-51 family)
+blaOXA-886,blaOXA,WP_152315499.1,WP_152315499.1,QEV81501.1,MN476926.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-886,Carbapenemase (OXA-51 family)
+blaOXA-887,blaOXA,WP_152315500.1,WP_152315500.1,QEV81502.1,MN476927.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-887,Carbapenemase (OXA-51 family)
+blaOXA-888,blaOXA,WP_152315501.1,WP_152315501.1,QEV81503.1,MN476928.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-888,Carbapenemase (OXA-51 family)
+blaOXA-889,blaOXA,WP_152315502.1,WP_152315502.1,QEV81504.1,MN476929.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-889,Carbapenemase (OXA-51 family)
+blaOXA-89,blaOXA,WP_063864541.1,WP_063864541.1,ABE03012.1,DQ445683.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-89,Carbapenemase (OXA-51 family)
+blaOXA-890,blaOXA,WP_152315503.1,WP_152315503.1,QEV81505.1,MN476930.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-890,Carbapenemase (OXA-51 family)
+blaOXA-891,blaOXA,WP_152315504.1,WP_152315504.1,QEV81506.1,MN476931.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-891,Carbapenemase (OXA-51 family)
+blaOXA-892,blaOXA,WP_152315505.1,WP_152315505.1,QEV81507.1,MN476932.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-892,Carbapenemase (OXA-51 family)
+blaOXA-90,blaOXA,WP_001021781.1,WP_001021781.1,CAJ77809.1,AM231719.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-90,Carbapenemase (OXA-51 family)
+blaOXA-909,blaOXA,WP_162278338.1,WP_162278338.1,CAA0240533.1,CACSGU010000007.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-909,Carbapenemase (OXA-51 family)
+blaOXA-91,blaOXA,WP_001021776.1,WP_001021776.1,ABF47914.1,DQ519086.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-91,Carbapenemase (OXA-51 family)
+blaOXA-910,blaOXA,WP_162280230.1,WP_162280230.1,CAA0165441.1,CACSHE010000009.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-910,Carbapenemase (OXA-51 family)
+blaOXA-916,blaOXA,WP_171476790.1,WP_171476790.1,QJR96166.1,MT437251.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-916,Carbapenemase (OXA-51 family)
+blaOXA-92,blaOXA,WP_059262713.1,WP_059262713.1,ABC61637.1,DQ335566.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-92,Carbapenemase (OXA-51 family)
+blaOXA-927,blaOXA,WP_047480628.1,WP_047480628.1,QLL99487.1,MT780916.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-927,Carbapenemase (OXA-51 family)
+blaOXA-93,blaOXA,WP_063864542.1,WP_063864542.1,ABF47916.1,DQ519087.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-93,Carbapenemase (OXA-51 family)
+blaOXA-938,blaOXA,WP_086263559.1,WP_086263559.1,OTK43719.1,NGCA01000034.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-938,Carbapenemase (OXA-51 family)
+blaOXA-939,blaOXA,WP_086261538.1,WP_086261538.1,OTM35444.1,NGDZ01000012.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-939,Carbapenemase (OXA-51 family)
+blaOXA-94,blaOXA,WP_029424390.1,WP_029424390.1,ABF47917.1,DQ519088.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-94,Carbapenemase (OXA-51 family)
+blaOXA-940,blaOXA,WP_086442870.1,WP_086442870.1,OTT98548.1,NGII01000019.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-940,Carbapenemase (OXA-51 family)
+blaOXA-95,blaOXA,WP_031960432.1,WP_031960432.1,ABF47918.1,DQ519089.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-95,Carbapenemase (OXA-51 family)
+blaOXA-954,blaOXA,WP_213994599.1,WP_213994599.1,QTG68657.1,MW805236.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-954,Carbapenemase (OXA-51 family)
+blaOXA-955,blaOXA,WP_213994600.1,WP_213994600.1,EGY4117187.1,AAYMEH010000029.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-955,Carbapenemase (OXA-51 family)
+blaOXA-970,blaOXA,WP_231869597.1,WP_231869597.1,QWA20169.1,MZ265722.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-970,Carbapenemase (OXA-51 family)
+blaOXA-971,blaOXA,WP_231869598.1,WP_231869598.1,QWA20170.1,MZ265723.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-971,Carbapenemase (OXA-51 family)
+blaOXA-972,blaOXA,WP_231869599.1,WP_231869599.1,QWA20171.1,MZ265724.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-972,Carbapenemase (OXA-51 family)
+blaOXA-973,blaOXA,WP_231869600.1,WP_231869600.1,QWA20172.1,MZ265725.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-973,Carbapenemase (OXA-51 family)
+blaOXA-974,blaOXA,WP_231869601.1,WP_231869601.1,QWA20173.1,MZ265726.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-974,Carbapenemase (OXA-51 family)
+blaOXA-975,blaOXA,WP_231869602.1,WP_231869602.1,QWA20174.1,MZ265727.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-975,Carbapenemase (OXA-51 family)
+blaOXA-977,blaOXA,WP_231869603.1,WP_231869603.1,QWA20176.1,MZ265729.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-977,Carbapenemase (OXA-51 family)
+blaOXA-98,blaOXA,WP_001021777.1,WP_001021777.1,CAK50801.1,AM279652.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-98,Carbapenemase (OXA-51 family)
+blaOXA-99,blaOXA,WP_017816859.1,WP_017816859.1,ABI53716.1,DQ888718.1,OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-99,Carbapenemase (OXA-51 family)
+blaOXA-549,blaOXA,WP_087587940.1,WP_087587940.1,AQX43449.1,KY682751.1,OXA-548 family class D beta-lactamase OXA-549,Beta-lactamase (unknown spectrum)
+blaOXA-550,blaOXA,WP_087587941.1,WP_087587941.1,AQX43450.1,KY682752.1,OXA-548 family class D beta-lactamase OXA-550,Beta-lactamase (unknown spectrum)
+blaOXA-551,blaOXA,WP_087587942.1,WP_087587942.1,AQX43451.1,KY682753.1,OXA-548 family class D beta-lactamase OXA-551,Beta-lactamase (unknown spectrum)
+blaOXA-552,blaOXA,WP_087587943.1,WP_087587943.1,AQX43452.1,KY682754.1,OXA-548 family class D beta-lactamase OXA-552,Beta-lactamase (unknown spectrum)
+blaOXA-553,blaOXA,WP_087587944.1,WP_087587944.1,AQX43453.1,KY682755.1,OXA-548 family class D beta-lactamase OXA-553,Beta-lactamase (unknown spectrum)
+blaOXA-729,blaOXA,WP_114699266.1,WP_114699266.1,AAL47570.1,AY066004.1,OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-729,Carbapenemase
+blaOXA-960,blaOXA,WP_213994601.1,WP_213994601.1,QVO43834.1,MZ092827.1,OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-960,Carbapenemase
+blaOXA-961,blaOXA,WP_213994602.1,WP_213994602.1,QVO43835.1,MZ092828.1,OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-961,Carbapenemase
+blaOXA-962,blaOXA,WP_052248074.1,WP_052248074.1,QVO43836.1,MZ092829.1,OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-962,Carbapenemase
+blaOXA-963,blaOXA,WP_213994603.1,WP_213994603.1,QVO43837.1,MZ092830.1,OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-963,Carbapenemase
+blaOXA-964,blaOXA,WP_025889747.1,WP_025889747.1,QVO43838.1,MZ092831.1,OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-964,Carbapenemase
+blaOXA-965,blaOXA,WP_213994604.1,WP_213994604.1,QVO43839.1,MZ092832.1,OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-965,Carbapenemase
+blaOXA-164,blaOXA,WP_063861121.1,WP_063861121.1,ADK34116.1,GU831575.1,OXA-58 family carbapenem-hydrolyzing class D beta-lactamase OXA-164,Carbapenemase
+blaOXA-397,blaOXA,WP_063862756.1,WP_063862756.1,AIT76118.1,KM087865.1,OXA-58 family carbapenem-hydrolyzing class D beta-lactamase OXA-397,Carbapenemase
+blaOXA-420,blaOXA,WP_063862810.1,WP_063862810.1,BAP28835.1,AB983359.1,OXA-58 family carbapenem-hydrolyzing class D beta-lactamase OXA-420,Carbapenemase
+blaOXA-512,blaOXA,WP_063864184.1,WP_063864184.1,AMK37641.1,KU726870.1,OXA-58 family carbapenem-hydrolyzing class D beta-lactamase OXA-512,Carbapenemase
+blaOXA-96,blaOXA,WP_063864543.1,WP_063864543.1,ABF47919.1,DQ519090.1,OXA-58 family carbapenem-hydrolyzing class D beta-lactamase OXA-96,Carbapenemase
+blaOXA-97,blaOXA,WP_063864544.1,WP_063864544.1,ABO33299.1,EF102240.1,OXA-58 family carbapenem-hydrolyzing class D beta-lactamase OXA-97,Carbapenemase
+blaOXA-444,blaOXA,WP_045219469.1,WP_045219469.1,BAQ55594.1,LC030179.1,OXA-60 family carbapenem-hydrolyzing class D beta-lactamase OXA-444,Carbapenemase
+blaOXA-570,blaOXA,WP_102607462.1,WP_102607462.1,AUN87915.1,MG736317.1,OXA-60 family carbapenem-hydrolyzing class D beta-lactamase OXA-570,Carbapenemase
+blaOXA-571,blaOXA,WP_102607463.1,WP_102607463.1,AUN87916.1,MG736318.1,OXA-60 family carbapenem-hydrolyzing class D beta-lactamase OXA-571,Carbapenemase
+blaOXA-573,blaOXA,WP_064808881.1,WP_064808881.1,AUN87918.1,MG736320.1,OXA-60 family carbapenem-hydrolyzing class D beta-lactamase OXA-573,Carbapenemase
+blaOXA-898,blaOXA,WP_154205589.1,WP_154205589.1,QHT72948.1,MN968728.1,OXA-60 family carbapenem-hydrolyzing class D beta-lactamase OXA-898,Carbapenemase
+blaOXA-193,blaOXA,WP_002783228.1,WP_002783228.1,CAL34450.1,AL111168.1,OXA-61 family class D beta-lactamase OXA-193,Beta-lactamase (unknown spectrum)
+blaOXA-450,blaOXA,WP_042962442.1,WP_042962442.1,AKI29914.1,KR061502.1,OXA-61 family class D beta-lactamase OXA-450,Beta-lactamase (unknown spectrum)
+blaOXA-451,blaOXA,WP_052805187.1,WP_052805187.1,AKI29916.1,KR061504.1,OXA-61 family class D beta-lactamase OXA-451,Beta-lactamase (unknown spectrum)
+blaOXA-452,blaOXA,WP_020836977.1,WP_020836977.1,AKI29917.1,KR061505.1,OXA-61 family class D beta-lactamase OXA-452,Beta-lactamase (unknown spectrum)
+blaOXA-453,blaOXA,WP_038851696.1,WP_038851696.1,AKI29919.1,KR061507.1,OXA-61 family class D beta-lactamase OXA-453,Beta-lactamase (unknown spectrum)
+blaOXA-461,blaOXA,WP_038813458.1,WP_038813458.1,AKI29921.1,KR061509.1,OXA-61 family class D beta-lactamase OXA-461,Beta-lactamase (unknown spectrum)
+blaOXA-489,blaOXA,WP_002791310.1,WP_002791310.1,EIA89747.1,AINK01000040.1,OXA-61 family class D beta-lactamase OXA-489,Beta-lactamase (unknown spectrum)
+blaOXA-577,blaOXA,WP_109545091.1,WP_109545091.1,AWD39698.1,MH085533.1,OXA-61 family class D beta-lactamase OXA-577,Beta-lactamase (unknown spectrum)
+blaOXA-578,blaOXA,WP_002812372.1,WP_002812372.1,AWD39685.1,MH085520.1,OXA-61 family class D beta-lactamase OXA-578,Beta-lactamase (unknown spectrum)
+blaOXA-579,blaOXA,WP_002837769.1,WP_002837769.1,AWD39687.1,MH085522.1,OXA-61 family class D beta-lactamase OXA-579,Beta-lactamase (unknown spectrum)
+blaOXA-580,blaOXA,WP_025006557.1,WP_025006557.1,AWD39689.1,MH085524.1,OXA-61 family class D beta-lactamase OXA-580,Beta-lactamase (unknown spectrum)
+blaOXA-581,blaOXA,WP_052788887.1,WP_052788887.1,AWD39690.1,MH085525.1,OXA-61 family class D beta-lactamase OXA-581,Beta-lactamase (unknown spectrum)
+blaOXA-582,blaOXA,WP_109545107.1,WP_109545107.1,AWD39716.1,MH085553.1,OXA-61 family class D beta-lactamase OXA-582,Beta-lactamase (unknown spectrum)
+blaOXA-583,blaOXA,WP_052781249.1,WP_052781249.1,AWD39692.1,MH085527.1,OXA-61 family class D beta-lactamase OXA-583,Beta-lactamase (unknown spectrum)
+blaOXA-584,blaOXA,WP_109545088.1,WP_109545088.1,AWD39695.1,MH085530.1,OXA-61 family class D beta-lactamase OXA-584,Beta-lactamase (unknown spectrum)
+blaOXA-585,blaOXA,WP_109545089.1,WP_109545089.1,AWD39696.1,MH085531.1,OXA-61 family class D beta-lactamase OXA-585,Beta-lactamase (unknown spectrum)
+blaOXA-586,blaOXA,WP_109545090.1,WP_109545090.1,AWD39697.1,MH085532.1,OXA-61 family class D beta-lactamase OXA-586,Beta-lactamase (unknown spectrum)
+blaOXA-587,blaOXA,WP_109545092.1,WP_109545092.1,AWD39699.1,MH085534.1,OXA-61 family class D beta-lactamase OXA-587,Beta-lactamase (unknown spectrum)
+blaOXA-588,blaOXA,WP_109545095.1,WP_109545095.1,AWD39702.1,MH085537.1,OXA-61 family class D beta-lactamase OXA-588,Beta-lactamase (unknown spectrum)
+blaOXA-589,blaOXA,WP_109545096.1,WP_109545096.1,AWD39703.1,MH085538.1,OXA-61 family class D beta-lactamase OXA-589,Beta-lactamase (unknown spectrum)
+blaOXA-590,blaOXA,WP_109545103.1,WP_109545103.1,AWD39711.1,MH085546.1,OXA-61 family class D beta-lactamase OXA-590,Beta-lactamase (unknown spectrum)
+blaOXA-591,blaOXA,WP_002889704.1,WP_002889704.1,AWD39684.1,MH085519.1,OXA-61 family class D beta-lactamase OXA-591,Beta-lactamase (unknown spectrum)
+blaOXA-592,blaOXA,WP_002857546.1,WP_002857546.1,AWD39688.1,MH085523.1,OXA-61 family class D beta-lactamase OXA-592,Beta-lactamase (unknown spectrum)
+blaOXA-593,blaOXA,WP_109545097.1,WP_109545097.1,AWD39704.1,MH085539.1,OXA-61 family class D beta-lactamase OXA-593,Beta-lactamase (unknown spectrum)
+blaOXA-594,blaOXA,WP_044600959.1,WP_044600959.1,AWD39681.1,MH085516.1,OXA-61 family class D beta-lactamase OXA-594,Beta-lactamase (unknown spectrum)
+blaOXA-595,blaOXA,WP_002824679.1,WP_002824679.1,AWD39686.1,MH085521.1,OXA-61 family class D beta-lactamase OXA-595,Beta-lactamase (unknown spectrum)
+blaOXA-596,blaOXA,WP_109545093.1,WP_109545093.1,AWD39700.1,MH085535.1,OXA-61 family class D beta-lactamase OXA-596,Beta-lactamase (unknown spectrum)
+blaOXA-597,blaOXA,WP_052800105.1,WP_052800105.1,AWD39693.1,MH085528.1,OXA-61 family class D beta-lactamase OXA-597,Beta-lactamase (unknown spectrum)
+blaOXA-598,blaOXA,WP_109545101.1,WP_109545101.1,AWD39709.1,MH085544.1,OXA-61 family class D beta-lactamase OXA-598,Beta-lactamase (unknown spectrum)
+blaOXA-599,blaOXA,WP_109545098.1,WP_109545098.1,AWD39705.1,MH085540.1,OXA-61 family class D beta-lactamase OXA-599,Beta-lactamase (unknown spectrum)
+blaOXA-600,blaOXA,WP_109545094.1,WP_109545094.1,AWD39701.1,MH085536.1,OXA-61 family class D beta-lactamase OXA-600,Beta-lactamase (unknown spectrum)
+blaOXA-601,blaOXA,WP_052803794.1,WP_052803794.1,AWD39694.1,MH085529.1,OXA-61 family class D beta-lactamase OXA-601,Beta-lactamase (unknown spectrum)
+blaOXA-602,blaOXA,WP_109545105.1,WP_109545105.1,AWD39713.1,MH085548.1,OXA-61 family class D beta-lactamase OXA-602,Beta-lactamase (unknown spectrum)
+blaOXA-603,blaOXA,WP_053921012.1,WP_053921012.1,AWD39680.1,MH085515.1,OXA-61 family class D beta-lactamase OXA-603,Beta-lactamase (unknown spectrum)
+blaOXA-604,blaOXA,WP_109545104.1,WP_109545104.1,AWD39712.1,MH085547.1,OXA-61 family class D beta-lactamase OXA-604,Beta-lactamase (unknown spectrum)
+blaOXA-605,blaOXA,WP_109545108.1,WP_109545108.1,AWD39718.1,MH085561.1,OXA-61 family class D beta-lactamase OXA-605,Beta-lactamase (unknown spectrum)
+blaOXA-606,blaOXA,WP_109545106.1,WP_109545106.1,AWD39714.1,MH085549.1,OXA-61 family class D beta-lactamase OXA-606,Beta-lactamase (unknown spectrum)
+blaOXA-607,blaOXA,WP_109545102.1,WP_109545102.1,AWD39710.1,MH085545.1,OXA-61 family class D beta-lactamase OXA-607,Beta-lactamase (unknown spectrum)
+blaOXA-608,blaOXA,WP_109545087.1,WP_109545087.1,AWD39682.1,MH085517.1,OXA-61 family class D beta-lactamase OXA-608,Beta-lactamase (unknown spectrum)
+blaOXA-609,blaOXA,WP_052798312.1,WP_052798312.1,AWD39691.1,MH085526.1,OXA-61 family class D beta-lactamase OXA-609,Beta-lactamase (unknown spectrum)
+blaOXA-610,blaOXA,WP_109545099.1,WP_109545099.1,AWD39707.1,MH085542.1,OXA-61 family class D beta-lactamase OXA-610,Beta-lactamase (unknown spectrum)
+blaOXA-611,blaOXA,WP_052788483.1,WP_052788483.1,AWD39683.1,MH085518.1,OXA-61 family class D beta-lactamase OXA-611,Beta-lactamase (unknown spectrum)
+blaOXA-612,blaOXA,WP_109545100.1,WP_109545100.1,AWD39708.1,MH085543.1,OXA-61 family class D beta-lactamase OXA-612,Beta-lactamase (unknown spectrum)
+blaOXA-659,blaOXA,WP_114699276.1,WP_114699276.1,AWD39737.1,MH085560.1,OXA-61 family class D beta-lactamase OXA-659,Beta-lactamase (unknown spectrum)
+blaOXA-660,blaOXA,WP_114699279.1,WP_114699279.1,AWD39738.1,MH085562.1,OXA-61 family class D beta-lactamase OXA-660,Beta-lactamase (unknown spectrum)
+blaOXA-784,blaOXA,WP_065980086.1,WP_065980086.1,AYX80688.1,MK181519.1,OXA-61 family class D beta-lactamase OXA-784,Beta-lactamase (unknown spectrum)
+blaOXA-786,blaOXA,WP_128268279.1,WP_128268279.1,AYX80690.1,MK181521.1,OXA-61 family class D beta-lactamase OXA-786,Beta-lactamase (unknown spectrum)
+blaOXA-152,blaOXA,WP_063861050.1,WP_063861050.1,ALA99186.1,KP771980.1,OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-152,Carbapenemase
+blaOXA-155,blaOXA,WP_063861067.1,WP_063861067.1,ALA99189.1,KP771983.1,OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-155,Carbapenemase
+blaOXA-157,blaOXA,WP_058375744.1,WP_058375744.1,ALA99191.1,KP771985.1,OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-157,Carbapenemase
+blaOXA-158,blaOXA,WP_063861081.1,WP_063861081.1,ALA99192.1,KP771986.1,OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-158,Carbapenemase
+blaOXA-159,blaOXA,WP_063861087.1,WP_063861087.1,ALA99193.1,KP771987.1,OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-159,Carbapenemase
+blaOXA-1100,blaOXA,WP_242934113.1,WP_242934113.1,UNN26060.1,OM977009.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1100,Beta-lactamase (unknown spectrum)
+blaOXA-1101,blaOXA,WP_242934114.1,WP_242934114.1,UNN26061.1,OM977010.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1101,Beta-lactamase (unknown spectrum)
+blaOXA-1102,blaOXA,WP_242934115.1,WP_242934115.1,UNN26062.1,OM977011.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1102,Beta-lactamase (unknown spectrum)
+blaOXA-1103,blaOXA,WP_242934116.1,WP_242934116.1,UNN26063.1,OM977012.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1103,Beta-lactamase (unknown spectrum)
+blaOXA-1104,blaOXA,WP_242934117.1,WP_242934117.1,UNN26064.1,OM977013.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1104,Beta-lactamase (unknown spectrum)
+blaOXA-1105,blaOXA,WP_242934118.1,WP_242934118.1,UNN26065.1,OM977014.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1105,Beta-lactamase (unknown spectrum)
+blaOXA-1106,blaOXA,WP_242934119.1,WP_242934119.1,UNN26066.1,OM977015.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1106,Beta-lactamase (unknown spectrum)
+blaOXA-1107,blaOXA,WP_242934120.1,WP_242934120.1,UNN26067.1,OM977016.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-1107,Beta-lactamase (unknown spectrum)
+blaOXA-136,blaOXA,WP_013244277.1,WP_013244277.1,ABW76134.1,EU086830.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-136,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-137,blaOXA,WP_014932145.1,WP_014932145.1,ABW76138.1,EU086834.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-137,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-192,blaOXA,WP_063861316.1,WP_063861316.1,ADZ54048.1,JF273470.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-192,Beta-lactamase (unknown spectrum)
+blaOXA-470,blaOXA,WP_063864093.1,WP_063864093.1,ALC79285.1,KR182163.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-470,Beta-lactamase (unknown spectrum)
+blaOXA-472,blaOXA,WP_063864095.1,WP_063864095.1,ALC79287.1,KR182165.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-472,Beta-lactamase (unknown spectrum)
+blaOXA-473,blaOXA,WP_063864096.1,WP_063864096.1,ALC79288.1,KR182166.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-473,Beta-lactamase (unknown spectrum)
+blaOXA-474,blaOXA,WP_063864097.1,WP_063864097.1,ALC79289.1,KR182167.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-474,Beta-lactamase (unknown spectrum)
+blaOXA-475,blaOXA,WP_063864098.1,WP_063864098.1,ALC79290.1,KR182168.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-475,Beta-lactamase (unknown spectrum)
+blaOXA-476,blaOXA,WP_063864099.1,WP_063864099.1,ALC79291.1,KR182169.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-476,Beta-lactamase (unknown spectrum)
+blaOXA-477,blaOXA,WP_063864100.1,WP_063864100.1,ALC79292.1,KR182170.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-477,Beta-lactamase (unknown spectrum)
+blaOXA-478,blaOXA,WP_063864101.1,WP_063864101.1,ALC79293.1,KR182171.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-478,Beta-lactamase (unknown spectrum)
+blaOXA-479,blaOXA,WP_063864102.1,WP_063864102.1,ALC79294.1,KR182172.1,OXA-63 family oxacillin-hydrolyzing class D beta-lactamase OXA-479,Beta-lactamase (unknown spectrum)
+blaOXA-1051,blaOXA,WP_240067731.1,WP_240067731.1,UHO07590.1,OL901279.1,OXA-679 family carbapenem-hydrolyzing class D beta-lactamase OXA-1051,Carbapenemase
+blaOXA-679,blaOXA,WP_122634439.1,WP_122634439.1,AXV45349.1,MH837623.1,OXA-679 family carbapenem-hydrolyzing class D beta-lactamase OXA-679,Beta-lactamase (unknown spectrum)
+blaOXA-730,blaOXA,WP_116786836.1,WP_116786836.1,AXH06203.1,MH684781.1,OXA-679 family carbapenem-hydrolyzing class D beta-lactamase OXA-730,Beta-lactamase (unknown spectrum)
+blaOXA-946,blaOXA,WP_204376236.1,WP_204376236.1,QRM14289.1,MW581826.1,OXA-679 family carbapenem-hydrolyzing class D beta-lactamase OXA-946,Carbapenemase
+blaOXA-947,blaOXA,WP_204376237.1,WP_204376237.1,QRM14290.1,MW581827.1,OXA-679 family carbapenem-hydrolyzing class D beta-lactamase OXA-947,Carbapenemase
+blaOXA-948,blaOXA,WP_204376238.1,WP_204376238.1,QRM14291.1,MW581828.1,OXA-679 family carbapenem-hydrolyzing class D beta-lactamase OXA-948,Carbapenemase
+blaOXA-949,blaOXA,WP_204376239.1,WP_204376239.1,QRM14292.1,MW581829.1,OXA-679 family carbapenem-hydrolyzing class D beta-lactamase OXA-949,Carbapenemase
+blaOXA-727,blaOXA,WP_114272532.1,WP_114272532.1,AXG87077.1,MH651754.1,OXA-727 family class D beta-lactamase OXA-727,Beta-lactamase (unknown spectrum)
+blaOXA-728,blaOXA,WP_116786835.1,WP_116786835.1,AXG87078.1,MH651755.1,OXA-727 family class D beta-lactamase OXA-728,Beta-lactamase (unknown spectrum)
+blaOXA-896,blaOXA,WP_156404658.1,WP_156404658.1,QGQ32908.1,MN737579.1,OXA-9 family oxacillin-hydrolyzing class D beta-lactamase OXA-896,Beta-lactamase (unknown spectrum)
+blaOXA-12,blaOXA,WP_063861029.1,WP_063861029.1,AAA83417.1,U10251.1,oxacillin-hydrolyzing class D beta-lactamase OXA-12,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-29,blaOXA,WP_014845076.1,WP_014845076.1,CAC35728.1,AJ400619.1,oxacillin-hydrolyzing class D beta-lactamase OXA-29,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-37,blaOXA,WP_063862737.1,WP_063862737.1,AAG33665.1,AY007784.1,oxacillin-hydrolyzing class D beta-lactamase OXA-37,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-42,blaOXA,WP_063862802.1,WP_063862802.1,CAD32564.1,AJ488302.1,oxacillin-hydrolyzing class D beta-lactamase OXA-42,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-5,blaOXA,WP_032488483.1,WP_032488483.1,CAA41211.1,X58272.1,oxacillin-hydrolyzing class D beta-lactamase OXA-5,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-50,blaOXA,WP_003099707.1,WP_003099707.1,AAQ76277.1,AY306130.1,oxacillin-hydrolyzing class D beta-lactamase OXA-50,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-63,blaOXA,WP_063864528.1,WP_063864528.1,AAU88145.1,AY619003.1,oxacillin-hydrolyzing class D beta-lactamase OXA-63,Beta-lactamase (not ESBL or carbapenemase)
+blaOXA-85,blaOXA,WP_032835180.1,WP_032835180.1,EUB32241.1,JANA01000064.1,oxacillin-hydrolyzing class D beta-lactamase OXA-85,Beta-lactamase (not ESBL or carbapenemase)
