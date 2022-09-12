@@ -12,3 +12,11 @@ This is done using the `run.sh` script and the `annotation_comparison.ipynb` not
 	#AMRFinderPlus v3.10.40 with 2022-08-09.1
 	amrfinder -p ncbi_oxa.faa -o rgi_afp_output/ncbi_with_ncbi_annotation.txt
 	amrfinder -p card_oxa.faa -o rgi_afp_output/card_with_ncbi_annotation.txt
+
+- 0 CARD OXAs are incorrectly annotated by RGI
+- 10 CARD OXAs are annotated as a different OXA by NCBI
+- 0 CARD OXAs are missing in NCBI
+
+- 1 NCBI OXAs are incorrectly annotated by NCBI
+- 187 NCBI OXAs are annotated as a different OXA by CARD/RGI
+- 17 NCBI OXAs are missing in CARD
