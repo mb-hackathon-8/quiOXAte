@@ -26,6 +26,8 @@ process SETUP_FASTA {
 }
 
 
+
+
 workflow {
 
     take:
