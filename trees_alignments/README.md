@@ -17,5 +17,7 @@ mafft --ep 0.3 --auto 03.sans_longbranches.aln > 04.sans_realign.aln
 ## to remove outlier (that we found by eye from prev alignment):
 ```
 goalign subset --unaligned -r -e WP_063839877 -i card_canonical_card_ncbi_oxa_dedeup.faa > dededup_minux_OXA-PR.fas 
+mafft --auto --ep 0.23 dededup_minux_OXA-PR.fas > dededup_minux_OXA-PR.aln
+iqtree2 -s dededup_minux_OXA-PR.aln  -m LG --ninit 2 -nt 12
 ```
-and then mafft again to align
+The ML tree file will be called  `dededup_minux_OXA-PR.aln.treefile` 
