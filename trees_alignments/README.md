@@ -31,7 +31,10 @@ goalign rename -m 006.newnames.tsv --revert  -i 004.card_canonical_card_ncbi_oxa
 ## reroot and annotate internal nodes 
 ```bash
 gotree reroot midpoint -i ../003/006.newnames.iq.tre > 007.midpoint.tre
-treetime mugration --tree 007.midpoint.tre --states ../annotations/ncbi_card_annotation_comparion/families.tsv --attribute "NCBI Family" --outdir 007.tt
+treetime mugration --tree 007.midpoint.tre --states ../annotations/ncbi_card_annotation_comparion/families.tsv --attribute "NCBI Family" --outdir 007.tt --confidence
 mv 007.tt/annotated_tree.nexus 007.annotated_ncbifamily.nexus
+mv 007.tt/confidence.csv 007.annotated_ncbifamily.csv
+# alternative is to extract tree annotations with gotree
+gotree stats edges -i annotated_tree.nexus --format nexus > 007.gotree.tsv
 ```
 <img src="007.midpoint.png" height="600" alt="annotated tree">
