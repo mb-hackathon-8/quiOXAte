@@ -38,4 +38,5 @@ mv 007.tt/confidence.csv 007.annotated_ncbifamily.csv
 gotree stats edges -i annotated_tree.nexus --format nexus > 007.gotree.edges.tsv
 gotree stats nodes -i annotated_tree.nexus --format nexus > 007.gotree.nodes.tsv
 ```
+
 <img src="007.midpoint.png" height="600" alt="annotated tree">
