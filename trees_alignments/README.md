@@ -40,7 +40,7 @@ gotree stats nodes -i annotated_tree.nexus --format nexus > 007.gotree.nodes.tsv
 ```
 <img src="007.midpoint.png" height="600" alt="annotated tree">
 
-# Microreact visualization
+## Microreact visualization
 [007.midpoint.tre + 002.metadata.csv](https://microreact.org/project/6V7sdy5pGdWUWfbxhBFAh9-quioxate)
 
 
