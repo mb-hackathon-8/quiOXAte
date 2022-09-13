@@ -35,13 +35,14 @@ treetime mugration --tree 007.midpoint.tre --states ../annotations/ncbi_card_ann
 mv 007.tt/annotated_tree.nexus 007.annotated_ncbifamily.nexus
 mv 007.tt/confidence.csv 007.annotated_ncbifamily.csv
 # alternative is to extract tree annotations with gotree
-gotree stats edges -i annotated_tree.nexus --format nexus > 007.gotree.edges.tsv
-gotree stats nodes -i annotated_tree.nexus --format nexus > 007.gotree.nodes.tsv
+gotree stats edges -i 007.annotated_ncbifamily.nexus --format nexus > 007.gotree.edges.tsv
+gotree stats nodes -i 007.annotated_ncbifamily.nexus --format nexus > 007.gotree.nodes.tsv
 ```
 
 <img src="007.midpoint.png" height="600" alt="annotated tree">
 
 ## Estimating ancestral states with PastML and traversing the tree
+Notice that the ancestral reconstruction _may_ be distinct from the one in file `007.annotated_ncbifamily.nexus`
 ```python
 import pandas as pd, ete3
 from pastml.acr import acr
