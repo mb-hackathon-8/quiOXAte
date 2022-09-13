@@ -35,6 +35,7 @@ treetime mugration --tree 007.midpoint.tre --states ../annotations/ncbi_card_ann
 mv 007.tt/annotated_tree.nexus 007.annotated_ncbifamily.nexus
 mv 007.tt/confidence.csv 007.annotated_ncbifamily.csv
 # alternative is to extract tree annotations with gotree
-gotree stats edges -i annotated_tree.nexus --format nexus > 007.gotree.tsv
+gotree stats edges -i annotated_tree.nexus --format nexus > 007.gotree.edges.tsv
+gotree stats nodes -i annotated_tree.nexus --format nexus > 007.gotree.nodes.tsv
 ```
 <img src="007.midpoint.png" height="600" alt="annotated tree">
