@@ -41,6 +41,35 @@ gotree stats nodes -i annotated_tree.nexus --format nexus > 007.gotree.nodes.tsv
 
 <img src="007.midpoint.png" height="600" alt="annotated tree">
 
+## Estimating ancestral states with PastML and traversing the tree
+```python
+import pandas as pd, ete3
+from pastml.acr import acr
+# read tree
+tstr = open("007.midpoint.tre").readline().rstrip().replace("\'","").replace("\"","").replace("[&R]","")
+tre = ete3.Tree(tstr)
+# read trait to be estimated
+trait = pd.read_csv("ncbi.families.tsv", sep="\t") ## this file is actually the ../annotations/...etc... metadata file
+trait.set_index("Accession", drop = True, inplace = True)
+trait = trait.rename(columns={"NCBI Family":"family"})
+anntre = acr (tre, trait[["family"]], prediction_method = "MAP", force_joint=False, threads=12)
+# traverse the tree creatig the new feature (string)
+for node in tre.traverse("preorder"):
+    node.longname = ""
+    node.famstring = ",".join([str(i) for i in node.family])
+    if (node.is_root()):
+        node.longname = node.famstring
+    else:
+        if (node.famstring != node.up.famstring):
+            node.longname = node.up.longname + ";" + node.famstring
+        else:
+            node.longname = node.up.longnam
+# save info with in tsv 
+with open ("008.tip_families.tsv","w") as fs:
+    for l in tre.iter_leaves():
+        print (l.name, "\t", l.longname, file=fs)
+```
+
 ## Microreact visualization
 [007.midpoint.tre + 002.metadata.csv](https://microreact.org/project/6V7sdy5pGdWUWfbxhBFAh9-quioxate)
 
