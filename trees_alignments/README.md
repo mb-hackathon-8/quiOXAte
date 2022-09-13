@@ -1,3 +1,18 @@
+# Files summary
+
+* `006.newnames.aln.xz`: protein alignment
+* `006.newnames.iq.tre`: maximum likelihood (ML) tree estimated with IQTREE2
+* `007.midpoint.tre`: ML tree rooted at the midpoint root; tree used for ancestral state reconstruction 
+* `007.annotated_ncbifamily.nexus`: tree annotated with ancestral nodes (as nexus comments) 
+* `008.tip_families.tsv`: table with "family from root" information, in taxonomic format
+
+### Extra (non-essential or unused) files 
+* `007.annotated_ncbifamily.csv`: table with scaled likelihoods for every state at every internal node
+* `007.gotree.edges.tsv`: table with information for all edges (including inferred ancestral states) of  `007.annotated_ncbifamily.nexus`
+* `007.gotree.nodes.tsv`: table with information for nodes in `007.annotated_ncbifamily.nexus`
+
+# Detailed commands
+
 ## general alignment and NJ tree inference 
 ```bash
 mafft --auto card_canonical_card_prev_and_ncbi_oxa_dedeup.faa > card_canonical_card_prev_and_ncbi_oxa_dedeup.aln
@@ -73,5 +88,4 @@ with open ("008.tip_families.tsv","w") as fs:
 
 ## Microreact visualization
 [007.midpoint.tre + 002.metadata.csv](https://microreact.org/project/6V7sdy5pGdWUWfbxhBFAh9-quioxate)
-
 
